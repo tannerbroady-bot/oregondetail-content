@@ -1,5 +1,5 @@
 ---
-title: "Ceramic Coating Eugene OR: Cost, Durability & Value — Oregon Detail Co"
+title: "Ceramic Coating in Eugene: Cost and Value — Oregon Detail Co"
 description: "What ceramic coating costs in Eugene, OR, how long it lasts and whether it's worth it, from an installer coating cars since 2016. From $750."
 url: "https://oregondetail.com/blog/ceramic-coating-eugene-oregon"
 author: "Tanner Broady"
