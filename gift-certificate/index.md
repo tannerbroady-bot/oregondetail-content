@@ -1,5 +1,5 @@
 ---
-title: "Gift Certificates for Auto Detailing in Eugene, OR — Oregon Detail Co"
+title: "Detailing Gift Certificates in Eugene, OR — Oregon Detail Co"
 description: "Digital Oregon Detail Co gift certificates from $100, emailed instantly and good for any detailing or protection service at our Eugene shop."
 url: "https://oregondetail.com/store/p/giftcard"
 last_updated: "2026-11-06"
