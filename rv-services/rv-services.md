@@ -1,121 +1,101 @@
 ---
-title: "RV Detailing Eugene Oregon | Wash, Wax & Ceramic Coating | Oregon Detail Co"
-description: "Professional RV detailing in Eugene, OR serving Lane County. Wash from $7/ft, Wash & Wax from $15/ft, Elite Coach Package from $30/ft. Fifth wheels, Class A motorhomes, and more. Indoor facility."
+title: "RV Detailing Eugene Oregon | Wash, Wax & Ceramic Coating — Oregon Detail Co"
+description: "Indoor RV detailing in Eugene, OR. Wash from $7/ft, Wash & Wax from $15/ft, Elite Coach from $30/ft. Motorhomes, fifth wheels and trailers."
 url: "https://oregondetail.com/rv-services"
-last_updated: "2026-04-19"
+last_updated: "2026-11-06"
 ---
 
 # RV Detailing in Eugene, Oregon
 
-Oregon Detail Co has been Eugene's trusted RV detailing facility since 2016. Located at 860 Conger St in west Eugene, our 4,000 sq ft indoor shop handles motorhomes, fifth wheels, travel trailers, and camper vans of all sizes. All work is performed indoors year-round — Oregon weather never affects results. We are appointment-only, ensuring your RV gets dedicated, focused attention from start to finish.
+Eugene's RV detailing shop since 2016. Motorhomes, fifth wheels, travel trailers and camper vans of every size, detailed inside Oregon Detail Co's 4,000 sq ft indoor facility at 860 Conger St Unit 14, Eugene. Call (541) 968-2804 to book RV services.
 
-## RV Services & Pricing
+## RV Services
 
-### RV Wash
+Pricing is per foot of RV length. Example estimates are for a 30 ft RV. Estimates are starting prices; the final price depends on size and condition and is confirmed when you book.
 
-Your go-to location for RV washing. A deep clean done right and safe for paint.
+| Service | Per foot | 30 ft estimate |
+| --- | --- | --- |
+| RV Wash | $7–$10 | $210–$300 |
+| RV Wash & Wax (most popular) | $15–$20 | $450–$600 |
+| Elite Coach Package | $30–$40 | $900–$1,200 |
+| Roof Cleaning & Protection | $7–$10 | $210–$300 |
 
-Includes:
-- Snowfoam presoak & front end bug remover
-- Degrease & pressure wash of tires, wheels & wells
+### RV Wash — $7–$10 per foot
+
+A deep clean that's safe for paint.
+
+- Snow foam presoak & front-end bug remover
+- Degrease & pressure wash tires, wheels and wells
 - Hand and brush wash of all exterior painted surfaces
-- Dried with plush waffle weave towels
+- Dried with plush waffle-weave towels
 - Tires & trim dressed, exterior glass cleaned
-- Rinse down of roof included
+- Includes a roof rinse
 
-**$7–$10 per foot**
+### RV Wash & Wax — $15–$20 per foot (most popular)
 
----
+Clean the miles off and add protection.
 
-### RV Wash & Wax
-
-Most popular RV service. Clean the miles off and add protection.
-
-Includes:
-- Snowfoam presoak & front end bug remover
-- Degrease & pressure wash of tires, wheels & wells
+- Snow foam presoak & front-end bug remover
+- Degrease & pressure wash tires, wheels and wells
 - Hand wash of all exterior painted surfaces
-- Dried with plush waffle weave towels
-- Paint sealant applied to body
+- Dried with plush waffle-weave towels
+- Paint sealant applied to the body
 - Trim & tires dressed, exterior glass cleaned
-- Rinse down of roof included
+- Includes a roof rinse
 
-**$15–$20 per foot**
+### Elite Coach Package — $30–$40 per foot
 
----
+A full makeover that revives the exterior.
 
-### Elite Coach Package
-
-A full makeover for your coach or trailer. Revive the exterior.
-
-Includes:
-- Snowfoam presoak & front end bug remover
-- Degrease & pressure wash of tires, wheels & wells
+- Snow foam presoak & front-end bug remover
+- Degrease & pressure wash tires, wheels and wells
 - Hand wash of all exterior painted surfaces
-- Dried with plush waffle weave towels
-- Machine paint correction & oxidation removal
-- Full deep shine & paint clarity restoration
-- Paint sealant applied
+- Dried with plush waffle-weave towels
+- Machine paint correction & oxidation removal for deep shine and clarity
+- Paint sealant applied for protection
 - Trim & tires dressed, exterior glass cleaned
-- Rinse down of roof included
+- Includes a roof rinse
 
-**$30–$40 per foot**
+### Roof Cleaning & Protection — $7–$10 per foot
 
----
+A yearly service to deep clean and protect the roof.
 
-### Roof Cleaning & Protection Service
+- Roof pressure washed and scrubbed to remove dirt, pollutants and grime
+- Helps prevent black streak run-off down the sides
+- Roof dried after cleaning
+- 1-year UV-resistant sealant with a clean matte finish
 
-For roofs that need more than a simple rinse. A great yearly service.
+RV ceramic coating is also available for long-term paint preservation.
 
-Includes:
-- Pressure wash & scrub to remove dirt, pollutants & grime
-- Prevents black streak run-off
-- Roof dried and protected with 1-year UV resistant sealant
+## Why Our Shop
 
-**$7–$10 per foot**
+- **Since 2016** — Eugene's RV detailing facility for nearly a decade.
+- **4,000 sq ft indoors** — equipped for motorhomes, fifth wheels, travel trailers and camper vans of all sizes.
+- **Year-round** — temperature-controlled, so Oregon weather never gets in the way.
+- **Appointment only** — each RV gets dedicated attention from start to finish.
 
----
+## RV Detailing FAQ
 
-## Why Choose Oregon Detail Co for RV Detailing
+### How long does an RV detail take?
 
-- RV detailing specialist since 2016
-- Fully indoor 4,000 sq ft facility — all sizes accommodated year-round
-- Climate-controlled — Oregon weather never delays or affects quality
-- Appointment-only — your RV gets full, focused attention
-- Government fleet contracts include commercial and large vehicle work
-- Same experienced team for every service
-- 4.9 stars across 220+ Google reviews
-- Serving Eugene, Springfield, Cottage Grove, Junction City, and all of Lane County
+Basic services are usually finished the same day, depending on the size of the coach or trailer and the service. You get a time estimate when you book.
 
----
+### Do you work on both motorhomes and trailers?
 
-## Frequently Asked Questions
+Yes. All types of RVs, including Class A, B and C motorhomes, fifth wheels and travel trailers.
 
-**How long does an RV detail take?**
-Basic services are typically same-day completion. Turnaround depends on RV size and the service selected. We're appointment-only, so we'll give you a time estimate when you book.
+### How often should I have my RV detailed?
 
-**Do you work on both motorhomes and trailers?**
-Yes. We detail all types of RVs including Class A, B, and C motorhomes, fifth wheels, and travel trailers.
+A full exterior wash and wax at least once a year protects the paint and prevents black streaks and oxidation. If the RV sits outside year-round in Oregon's wet climate, more frequent roof cleaning is a smart preventive step.
 
-**How often should I have my RV detailed?**
-We recommend a full exterior wash and wax at least once a year to protect the paint and prevent black streak buildup and oxidation. If your RV sits outside year-round in Oregon's wet climate, more frequent roof cleaning is a smart preventive step.
+### Can you remove oxidation from my RV's paint?
 
-**Can you remove oxidation from my RV's paint?**
-Yes. Our Elite Coach Package includes machine paint correction to remove oxidation and restore deep gloss and clarity, followed by a protective sealant. It's the best option if your coach is looking dull or chalky.
+Yes. The Elite Coach Package includes machine paint correction to remove oxidation and restore gloss, followed by a protective sealant.
 
-**What does the RV roof cleaning service include?**
-We pressure wash and scrub the entire roof to remove dirt, pollutants, and built-up grime — which helps prevent black streaks that run down the sides of your coach. We finish with a 1-year UV resistant sealant to protect and extend the life of the roof.
+### Where are you located and do I need an appointment?
 
-**Where are you located and do I need an appointment?**
-We're located at 860 Conger St Unit 14 in Eugene, OR. Yes — all services are by appointment only. This ensures your RV gets the proper time and care it deserves. Book online or call (541) 968-2804.
+860 Conger St, Unit 14 in Eugene, OR. All services are by appointment only.
 
----
+### What does the RV roof cleaning service include?
 
-## Book
-
-- Phone: (541) 968-2804
-- Online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
-- Address: 860 Conger St Unit 14, Eugene OR 97402
-- Hours: Monday–Friday 9am–6pm
-
-Oregon Detail Co | 860 Conger St Unit 14, Eugene OR 97402 | (541) 968-2804 | Monday–Friday 9am–6pm | Serving Eugene, Springfield, and Lane County Oregon
+The roof is pressure washed and scrubbed to remove dirt, pollutants and built-up grime, which also helps prevent black streaks down the sides, then finished with a protective treatment. It's a good annual service.
