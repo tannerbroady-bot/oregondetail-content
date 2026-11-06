@@ -1,5 +1,5 @@
 ---
-title: "Auto Detailing Blog | Tips, Guides & Advice — Oregon Detail Co"
+title: "Car Care Blog: Detailing Tips & Guides — Oregon Detail Co"
 description: "Ceramic coating, paint correction and car care guides for Eugene and Springfield drivers, written by Oregon Detail Co's detailers."
 url: "https://oregondetail.com/blog"
 last_updated: "2026-11-06"
