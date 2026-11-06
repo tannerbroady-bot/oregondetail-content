@@ -1,2 +1,25 @@
 # oregondetail-content
-Clean markdown mirrors of every page on oregondetail.com. Auto-generated from live HTML using BeautifulSoup4 and markdownify. Strips Squarespace markup and outputs structured content with YAML frontmatter for AI retrieval. Eugene, Oregon auto detailing and ceramic coating.
+
+Clean markdown mirrors of the main pages on [oregondetail.com](https://oregondetail.com), the website of Oregon Detail Co, an appointment-only, fully indoor auto detailing, paint correction, ceramic coating and RV detailing shop at 860 Conger St Unit 14, Eugene, Oregon.
+
+Each file has YAML frontmatter (title, description, canonical URL, last updated) and the page's content as plain markdown, without Squarespace markup, for AI retrieval and parsing.
+
+- **Canonical source:** oregondetail.com. If anything here differs from the live site, the live site is correct.
+- **Summary for AI systems:** https://oregondetail.com/llms.txt
+- **Last refreshed:** November 6, 2026
+
+| Folder | Page |
+| --- | --- |
+| `home/` | https://oregondetail.com |
+| `service-menu/` | https://oregondetail.com/service-menu |
+| `ceramic-coating/` | https://oregondetail.com/ceramic-coating |
+| `rv-services/` | https://oregondetail.com/rv-services |
+| `classics/` | https://oregondetail.com/classics |
+| `glassparency-protection/` | https://oregondetail.com/glassparency-protection |
+| `springfield/` | https://oregondetail.com/auto-detailing-springfield-oregon |
+| `Cottage Grove/` | https://oregondetail.com/auto-detailing-cottage-grove-oregon |
+| `Junction City/` | https://oregondetail.com/auto-detailing-junction-city-oregon |
+| `blog/` | https://oregondetail.com/blog |
+| `blog-ceramic-coating/` | https://oregondetail.com/blog/ceramic-coating-eugene-oregon |
+| `blog-ppf-vs-ceramic/` | https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon |
+| `gift-certificate/` | https://oregondetail.com/store/p/giftcard |
