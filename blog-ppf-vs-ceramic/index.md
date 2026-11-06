@@ -1,5 +1,5 @@
 ---
-title: "PPF vs Ceramic Coating in Eugene, OR: Which Do You Need? — Oregon Detail Co"
+title: "PPF vs Ceramic Coating in Eugene, OR — Oregon Detail Co"
 description: "PPF stops rock chips; ceramic coating stops UV, water spots and oxidation. A Eugene installer explains cost, durability and which your car needs."
 url: "https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon"
 author: "Tanner Broady"
