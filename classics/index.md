@@ -1,49 +1,55 @@
 ---
-title: "Classic Car Detailing Eugene Oregon | Oregon Detail Co"
-description: "Oregon Detail Co specializes in classic & concours car detailing in Eugene, OR. Paint correction, restoration, and protection for vintage vehicles. 7+ years experience."
+title: "Classic Car Detailing Eugene OR — Oregon Detail Co"
+description: "Oregon Detail Co specializes in classic & concours car detailing in Eugene, OR. Paint correction, restoration, and protection for vintage vehicles. 10+ years experience."
 url: "https://oregondetail.com/classics"
-last_updated: "2026-04-16"
+last_updated: "2026-11-06"
 ---
 
-# Show Car & Classic Auto Detailing — Eugene, Oregon
+# Show Car & Classic Auto Detailing in Eugene, OR
 
-Some classics are driven, some are preserved. At Oregon Detail Co we love to work on both. Whether it's a concours build or an original barn find, we bring out the finish and beauty of your classic or your entire collection. Tailored pricing for every vehicle — from a simple sale-prep to a multiple-day concours detail.
+Some classics are driven, some are preserved. Oregon Detail Co works on both.
+
+Whether it's a concours build or an original barn find, the shop brings out the finish and beauty of a single classic or an entire collection. Pricing is tailored to every vehicle, from a simple sale prep to a multiple-day concours detail. Call (541) 968-2804 for a quote.
 
 ## Museum & Concours Level Detailing
 
-Show detailing is an incredibly detailed process we have spent years perfecting. It comes from a central idea of respecting and preserving the vehicle while maximizing its beauty and depth. We have 10+ years of working with individual owners, restoration shops, and collectors to bring concours-level detailing to classics and win awards.
+Show detailing is a highly detailed process built on respecting and preserving the vehicle while maximizing its beauty and depth.
 
-## Vehicles We've Worked On
+- **10+ years** of show and concours detailing experience
+- **Owners, shops & collectors** — trusted by individual owners, restoration shops and collections
+- **Award-winning finishes** — concours-level work that helps classics win awards
 
-- 1961 Morris Minor
-- Rare 1937 Packard 1508 Berline Twelve
-- MG TD
-- Triumph TR3
-- 1934 MG PA
-- Classic Mustangs, Camaros, and muscle cars
-- European classics and exotics
+Interested in a ceramic coating for your classic? See the [coating packages](https://oregondetail.com/ceramic-coating).
 
 ## Packages & Pricing
 
-Classic car detailing is highly individualized — one size does not fit all. We provide tailored quotes based on the vehicle's condition, goals, and timeline. Pricing ranges from basic sale-prep details to full multi-day concours restorations at the 98–99% paint correction level.
+Every classic poses a unique challenge, so every vehicle is quoted in person based on:
 
-- Sale Prep Detail: Starting at $350+
-- Show Prep / Single Stage Correction: Starting at $500+
-- Full Concours Restoration (4-Stage): In-person quote required, minimum 3-day turnaround
+1. **Vehicle condition** — reviewed together, in person
+2. **Paint history** — original, restored or repainted
+3. **Your expectations** — sale prep, a driver refresh or a concours finish
+4. **Your game plan** — a tailored plan and price for your vehicle
 
-Ceramic coating is also available for classic cars. All installations performed indoors in our climate-controlled Eugene facility.
+Concours-level paint work (the 4-Stage Concours Restoration) takes a minimum of 3 days.
 
-## Why Choose Oregon Detail Co for Classic Cars
+## From Our Garage
 
-- 10+ years experience with classic and show vehicles
-- Indoor 4,000 sq ft facility — no outdoor exposure to weather or contaminants
-- Award-winning concours detailing background
-- Low staff turnover — same experienced technicians every visit
-- Respected by restoration shops and collectors across Lane County
+Past classic and show cars detailed at the shop include:
 
-## Book a Consultation
-
-- Phone: (541) 968-2804
-- Online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
-- Address: 860 Conger St Unit 14, Eugene OR 97402
-- Hours: Monday–Friday 9am–6pm
+- 1937 Packard 1508 Berline Twelve
+- 1959 Bocar X-P5
+- 1952 Lancia B-Junior Pebble Car (1 of 2)
+- 1934 MG PA
+- 1928 Ford Model A
+- 1937 Ford Coupe
+- 1941 Ford Truck
+- 1956 Chevy Bel Air
+- 1961 Morris Minor
+- 1966 Ford Mustang GT
+- AC Aceca
+- Alfa Romeo Iniezione
+- Backdraft Cobra Restomod
+- Chevy 3100
+- MG TD
+- Triumph TR3
+- VW Karmann Ghia
