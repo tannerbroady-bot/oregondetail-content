@@ -1,5 +1,5 @@
 ---
-title: "GlassParency Windshield & Glass Coating in Eugene, OR — Oregon Detail Co"
+title: "GlassParency Glass Coating in Eugene, OR — Oregon Detail Co"
 description: "GlassParency glass coating in Eugene, OR. Water beads off, night glare drops, and it's backed by a 3-year warranty. No cure time: drive away immediately."
 url: "https://oregondetail.com/glassparency-protection"
 last_updated: "2026-11-06"
