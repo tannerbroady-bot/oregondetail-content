@@ -1,5 +1,5 @@
 ---
-title: "Oregon Detail Co | Eugene Auto Detailing, Ceramic Coating & PPF"
+title: "Oregon Detail Co | Eugene Detailing, Ceramic Coating & PPF"
 description: "Indoor, appointment-only auto detailing, ceramic coating and paint correction in Eugene, OR. 4.9 stars from 220+ reviews. Serving Lane County since 2016."
 url: "https://oregondetail.com"
 last_updated: "2026-11-06"
@@ -7,27 +7,29 @@ last_updated: "2026-11-06"
 
 # Auto Detailing & Ceramic Coating — Eugene, Oregon
 
-Oregon Detail Co is Eugene, Oregon's destination for professional auto detailing, ceramic coatings, paint protection film (PPF) and paint correction. The shop is at 860 Conger St Unit 14, Eugene, OR 97402, and serves Eugene, [Springfield](https://oregondetail.com/auto-detailing-springfield-oregon) and greater Lane County with detailing packages for every budget, from a quick interior refresh to a full concours-level paint restoration.
+Oregon Detail Co is an appointment-only auto detailing shop at 860 Conger St Unit 14, Eugene, OR 97402, serving Eugene, [Springfield](https://oregondetail.com/auto-detailing-springfield-oregon) and the rest of Lane County since 2016. The shop does interior and exterior detailing, [ceramic coating](https://oregondetail.com/ceramic-coating), paint protection film (PPF) and paint correction, from a quick interior refresh to full paint restoration.
 
-The shop also specializes in [RV detailing](https://oregondetail.com/rv-services), headlight restoration and mold remediation. Every appointment is handled in the dedicated indoor Eugene shop, an authorized Carfax service center.
+The shop also handles [RV detailing](https://oregondetail.com/rv-services), headlight restoration and mold remediation. Every vehicle is worked on indoors in the 4,000 sq ft shop, a certified [Carfax service center](https://www.carfax.com/Reviews-Oregon-Detail-Company-Eugene-OR_XZGEAZRKNN#service). Book online and pick the time that works for you.
 
 - Appointment-only, fully indoor, no mobile service
 - Monday–Friday 9am–6pm; closed Saturday and Sunday
 - Phone: (541) 968-2804
 - 4.9 stars across 220+ Google reviews
 - Founded in 2016 by Tanner Broady
+- 4,000 sq ft fully indoor facility
+- Certified Carfax service center
 - Book online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
 - Full pricing: [Detail Menu](https://oregondetail.com/service-menu)
 
 ## Ceramic Coating Protection
 
-Your vehicle's paint faces UV rays, ash, road grime, bird droppings, tree sap and fine scratches that dull the finish over time. A professional ceramic coating from Oregon Detail Co comes with a full warranty, Carfax integration and included maintenance. Unlike wax or sealant that wears away in months, ceramic coating chemically bonds to the clear coat and forms a semi-permanent protective layer that lasts for years.
+A ceramic coating bonds to your clear coat and shields the paint from UV, ash, road grime, bird droppings and tree sap for years, where wax or sealant wears off in months. Every coating comes with a full warranty, Carfax integration and included maintenance.
 
-Water and dirt bead up and roll off, the paint takes on a deeper gloss, and everyday contaminants can't get a foothold. See [Ceramic Coating](https://oregondetail.com/ceramic-coating).
+You see the difference right away: water and dirt bead up and roll off, the paint has a deeper gloss, and everyday contaminants have a harder time sticking. It's a smart long-term investment for a new car, a daily driver or a classic. See [Ceramic Coating](https://oregondetail.com/ceramic-coating).
 
 ## RV Services
 
-Oregon Detail Co has been Eugene's RV detailing specialist since 2016. From a basic wash or wash and wax to the Elite Coach package with paint correction and ceramic coating, the indoor Eugene facility handles RVs of all sizes. See [RV Services](https://oregondetail.com/rv-services).
+Oregon Detail Co has detailed RVs in Eugene since 2016. Choose a basic wash, a full wash and wax, or the Elite Coach package, with decontamination, polish and RV ceramic coating available. Every RV, whatever its size, is done indoors and out of Oregon's weather. See [RV Services](https://oregondetail.com/rv-services).
 
 ## Frequently Asked Questions
 
