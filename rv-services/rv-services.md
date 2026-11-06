@@ -1,5 +1,5 @@
 ---
-title: "RV Detailing Eugene Oregon | Wash, Wax & Ceramic Coating — Oregon Detail Co"
+title: "RV Wash, Wax & Ceramic Coating in Eugene — Oregon Detail Co"
 description: "Indoor RV detailing in Eugene, OR. Wash from $7/ft, Wash & Wax from $15/ft, Elite Coach from $30/ft. Motorhomes, fifth wheels and trailers."
 url: "https://oregondetail.com/rv-services"
 last_updated: "2026-11-06"
