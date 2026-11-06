@@ -1,5 +1,5 @@
 ---
-title: "Auto Detailing Packages & Pricing Eugene Oregon — Oregon Detail Co"
+title: "Detailing Packages & Prices in Eugene, OR — Oregon Detail Co"
 description: "Full detail packages from $280, plus interior, exterior, paint correction and ceramic coating prices in Eugene, OR. Appointment-only, fully indoor."
 url: "https://oregondetail.com/service-menu"
 last_updated: "2026-11-06"
