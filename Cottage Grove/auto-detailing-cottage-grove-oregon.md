@@ -7,28 +7,33 @@ last_updated: "2026-11-06"
 
 # Auto Detailing in Cottage Grove, Oregon
 
-Cottage Grove drivers have been trusting Oregon Detail Co since 2016. The shop is at 860 Conger St Unit 14 in Eugene — 22 miles and about 24 minutes from downtown Cottage Grove via I-5. For professional auto detailing, ceramic coating, paint correction, PPF or RV detailing in the Cottage Grove area, the drive is straightforward.
+Oregon Detail Co is 22 miles north of downtown Cottage Grove, about 24 minutes up I-5 to our shop at 860 Conger St, Unit 14 in west Eugene. Since 2016 we've detailed cars, trucks and RVs for Cottage Grove drivers, from full interior and exterior details to ceramic coating, paint correction and PPF.
 
-Oregon Detail Co is appointment-only, fully indoor and an authorized Carfax service center. Every vehicle gets dedicated attention in a climate-controlled facility, whether it's a daily driver that needs a refresh or a weekend car going in for a full ceramic coating. See the full [Detail Menu](https://oregondetail.com/service-menu).
+With the drive, it's easiest to drop off in the morning and pick up the same evening; ceramic coatings stay overnight. Every vehicle is worked on indoors in our 4,000 sq ft shop, a certified [Carfax service center](https://www.carfax.com/Reviews-Oregon-Detail-Company-Eugene-OR_XZGEAZRKNN#service).
 
 - Address: 860 Conger St Unit 14, Eugene, OR 97402
 - Phone: (541) 968-2804
 - Hours: Monday–Friday 9am–6pm
 - Book online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
+- Full pricing: [Detail Menu](https://oregondetail.com/service-menu) · [Ceramic Coating](https://oregondetail.com/ceramic-coating) · [RV Services](https://oregondetail.com/rv-services)
 
-## Ceramic Coating for Cottage Grove Vehicle Owners
+## Ceramic Coating for Highway Miles and Back Roads
 
-Oregon Detail Co has been installing ceramic coatings in Eugene since 2016, making it one of the most tenured installers in Lane County. Warranty levels run from 2 years up to 5 years with full exterior coverage, and every package includes complimentary annual maintenance visits. Packages start at $750. See [Ceramic Coating](https://oregondetail.com/ceramic-coating) and the guide [Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+Driving from Cottage Grove usually means I-5 at highway speed, plus gravel and county roads out toward Dorena Lake and along the Row River. A ceramic coating won't stop rock chips (that's what paint protection film is for), but it keeps dust, mud and road film from bonding, so a car or truck cleans up quickly after a dirt road.
 
-## RV Detailing serving Cottage Grove & Lane County
+We've installed ceramic coatings in Eugene since 2016. Choose a 2-year or 5-year coating, both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
 
-Oregon Detail Co has been Eugene's RV detailing specialist since 2016, serving Cottage Grove and Lane County with everything from a basic wash to full paint correction and ceramic coating for motorhomes, fifth wheels and Class A coaches of all sizes. Cottage Grove's proximity to Dorena Lake, Cottage Grove Lake and the Row River Trail makes it a hub for RV and outdoor recreation, and Oregon's wet winters and UV-heavy summers are tough on RV paint and roofs. The fully indoor Eugene facility works year-round with consistent results regardless of the weather. See [RV Services](https://oregondetail.com/rv-services).
+## RV Detailing Before and After Lake Season
 
-## Serving Cottage Grove, Creswell, and Greater Lane County
+RVs and trailers that spend the summer at Dorena Lake or Cottage Grove Lake come home with dust, tree sap and sun-faded paint. We wash, polish and ceramic coat motorhomes, fifth wheels and trailers of all sizes indoors, so a coach can be cleaned up after the season or protected before winter storage.
 
-The shop is in west Eugene, an accessible stop for drivers coming north from Cottage Grove and Creswell on I-5. Plenty of parking on site.
+Pricing is by the foot, from a basic wash to the Elite Coach package. See [RV Services](https://oregondetail.com/rv-services).
 
-Customers come from across Lane County, including Cottage Grove, Creswell, Springfield, Glenwood and Junction City.
+## Getting Here from Cottage Grove
+
+Take I-5 north about 22 miles into Eugene, then head to west Eugene. The shop is at 860 Conger St, Unit 14, with parking on site, and Creswell is right on the way.
+
+We serve Cottage Grove, Creswell and the rest of south Lane County.
 
 ## Frequently Asked Questions
 
@@ -36,21 +41,21 @@ Customers come from across Lane County, including Cottage Grove, Creswell, Sprin
 
 Our shop is at 860 Conger St Unit 14 in Eugene — 22 miles and 24 minutes from downtown Cottage Grove via I-5 North. Straightforward highway drive with no turns once you're on I-5.
 
-### How long does a detail take?
+### Is it worth the drive from Cottage Grove?
 
-A standard interior refresh takes a couple of hours. A full detail typically takes most of the day. Ceramic coating installations require the vehicle overnight at minimum. We recommend arranging a ride for most services.
+For a full detail, paint correction or ceramic coating, yes. We work indoors in a 4,000 sq ft shop, so the work isn't at the mercy of rain or dust, and coatings cure in a controlled space. Drop off in the morning, and a full detail is usually ready by evening.
 
-### Do I need an appointment?
+### How should I plan drop-off from Cottage Grove?
 
-Yes — we're appointment-only. This ensures your vehicle gets dedicated, focused attention from drop-off to pickup rather than being worked around other jobs. Book online or call (541) 968-2804.
+Most full details take the better part of a day, and ceramic coatings stay overnight. We're open Monday to Friday, 9am to 6pm, by appointment. Book online or call (541) 968-2804 to pick drop-off and pickup times that work with the drive.
 
-### Why do your Cottage Grove customers choose Oregon Detail Co over closer options?
+### What do gravel roads do to my paint?
 
-A few reasons come up consistently: our fully indoor facility delivers results year-round regardless of weather, our ceramic coating experience dates back to 2016 making us one of the most tenured installers in Lane County, and our 4.9-star rating across 220+ reviews reflects what Cottage Grove and Eugene customers actually experience. There is no comparable indoor, appointment-only detailing facility in Cottage Grove itself.
+Fine dust and grit from gravel roads settle on the paint, and a quick wash drags them across it, which leaves swirl marks. Rinse well before you wash. A ceramic coating helps the dust rinse off, and paint protection film on the front end takes the rock chips.
 
-### How often should I get my car detailed?
+### When is the best time of year to book?
 
-For most daily drivers in the Cottage Grove and Eugene area, a full detail once or twice a year keeps the interior and exterior in good shape. If your vehicle has a ceramic coating, annual maintenance visits are included in your package. Vehicles exposed to heavy pollen, pet hair, or off-road conditions benefit from more frequent interior refreshes.
+Two times work well for Cottage Grove drivers: early fall, to clean off a summer of dusty roads and lake trips and seal the paint before the rain, and spring, to clear out the winter mud and grime from the interior and the lower panels.
 
 ### Do you offer gift certificates for customers?
 
