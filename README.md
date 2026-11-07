@@ -22,4 +22,5 @@ Each file has YAML frontmatter (title, description, canonical URL, last updated)
 | `blog/` | https://oregondetail.com/blog |
 | `blog-ceramic-coating/` | https://oregondetail.com/blog/ceramic-coating-eugene-oregon |
 | `blog-ppf-vs-ceramic/` | https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon |
+| `blog-winter-paint-protection/` | https://oregondetail.com/blog/winter-paint-protection-oregon |
 | `gift-certificate/` | https://oregondetail.com/store/p/giftcard |
