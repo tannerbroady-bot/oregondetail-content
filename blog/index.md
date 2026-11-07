@@ -11,6 +11,12 @@ Guides on ceramic coating, paint protection and car care for Eugene, Springfield
 
 ## Posts
 
+### [Should You Protect Your Car's Paint Before Winter in Oregon?](https://oregondetail.com/blog/winter-paint-protection-oregon)
+
+*Tanner Broady · November 6, 2026*
+
+Eugene's wet season runs from mid-October into May. A sealant or ceramic coating applied before the rain sets in keeps road grime, de-icer and sap from sitting on your paint all winter.
+
 ### [PPF vs Ceramic Coating: Which Does Your Car Actually Need?](https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon)
 
 *Tanner Broady · April 16, 2026*
