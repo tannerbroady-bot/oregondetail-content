@@ -7,50 +7,55 @@ last_updated: "2026-11-06"
 
 # Auto Detailing in Junction City, Oregon
 
-Junction City drivers have been trusting Oregon Detail Co since 2016. The shop is at 860 Conger St Unit 14 in Eugene — 18 miles and about 22 minutes from downtown Junction City via Highway 99W. For professional auto detailing, ceramic coating, paint correction, PPF or RV detailing in the Junction City area, the drive is straightforward.
+Oregon Detail Co is 18 miles south of downtown Junction City, about 22 minutes down Highway 99 to our shop at 860 Conger St, Unit 14 in west Eugene. Since 2016 we've detailed cars, trucks and RVs for Junction City drivers, from full interior and exterior details to ceramic coating, paint correction and PPF.
 
-Oregon Detail Co is appointment-only, fully indoor and an authorized Carfax service center. Every vehicle gets dedicated attention in a climate-controlled facility, whether it's a daily driver that needs a refresh or a weekend car going in for a full ceramic coating. See the full [Detail Menu](https://oregondetail.com/service-menu).
+We're appointment-only, and every vehicle is worked on indoors in our 4,000 sq ft shop, a certified [Carfax service center](https://www.carfax.com/Reviews-Oregon-Detail-Company-Eugene-OR_XZGEAZRKNN#service). Because the shop is on the west side of Eugene, the drive from Junction City is a straight run south.
 
 - Address: 860 Conger St Unit 14, Eugene, OR 97402
 - Phone: (541) 968-2804
 - Hours: Monday–Friday 9am–6pm
 - Book online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
+- Full pricing: [Detail Menu](https://oregondetail.com/service-menu) · [Ceramic Coating](https://oregondetail.com/ceramic-coating) · [RV Services](https://oregondetail.com/rv-services)
 
-## Ceramic Coating for Junction City Vehicle Owners
+## Ceramic Coating for Farm-Country Driving
 
-Oregon Detail Co has been installing ceramic coatings in Eugene since 2016, making it one of the most tenured installers in Lane County. Warranty levels run from 2 years up to 5 years with full exterior coverage, and every package includes complimentary annual maintenance visits. Packages start at $750. See [Ceramic Coating](https://oregondetail.com/ceramic-coating) and the guide [Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+Around Junction City, vehicles pick up field dust and grass seed chaff in the dry months and mud from farm roads in the wet ones. A ceramic coating keeps that grime from bonding to the paint, so it rinses off instead of needing scrubbing, and the finish stays glossy through the seasons.
 
-## RV Detailing serving Junction City & Lane County
+We've installed ceramic coatings in Eugene since 2016. Choose a 2-year or 5-year coating, both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
 
-Oregon Detail Co has been Eugene's RV detailing specialist since 2016, serving Junction City and Lane County with everything from a basic wash to full paint correction and ceramic coating for motorhomes, fifth wheels and Class A coaches of all sizes. Junction City's agricultural roots and outdoor recreation culture make it a natural hub for RV owners, and Oregon's wet winters and UV-heavy summers are tough on RV paint and roofs. The fully indoor Eugene facility works year-round with consistent results regardless of the weather. See [RV Services](https://oregondetail.com/rv-services).
+## RV Detailing North of Eugene
 
-## Serving Junction City, Alvadore, and Greater Lane County
+For RV and trailer owners in Junction City, we're a straight drive down Highway 99 with room to bring a coach in. We wash, polish and ceramic coat motorhomes, fifth wheels and trailers of all sizes indoors, so a rig can be cleaned up before a trip or protected before it sits for the winter.
 
-The shop is in west Eugene, an accessible stop for drivers coming south from Junction City on Highway 99W. Plenty of parking on site.
+Pricing is by the foot, from a basic wash to the Elite Coach package. See [RV Services](https://oregondetail.com/rv-services).
 
-Customers come from across Lane County, including Junction City, Alvadore, Veneta, Springfield, Cottage Grove and Creswell.
+## Getting Here from Junction City
+
+Take Highway 99 south about 18 miles into west Eugene. The shop is at 860 Conger St, Unit 14, with parking on site. From Alvadore and the Fern Ridge area, it's a similar drive in from the west.
+
+We serve Junction City, Alvadore and the rest of north Lane County.
 
 ## Frequently Asked Questions
 
 ### How far is Oregon Detail Co from Junction City?
 
-Our shop is at 860 Conger St Unit 14 in Eugene — 18 miles and 22 minutes from downtown Junction City via Highway 99.
+Our shop is at 860 Conger St, Unit 14 in west Eugene, about 18 miles and 22 minutes from downtown Junction City down Highway 99.
 
-### How long does a detail take?
+### How do I get field dust and chaff out of my interior?
 
-A standard interior refresh takes a couple of hours. A full detail typically takes most of the day. Ceramic coating installations require the vehicle overnight at minimum. We recommend arranging a ride for most services.
+Fine dust and grass seed chaff work into vents, carpet and seat seams. Our complete interior detail with a full shampoo gets them out, and a cabin air filter replacement stops the dust from blowing back in. Cars driven past fields every day may need the interior done more than once a year.
 
-### Do I need an appointment?
+### Can I fit a detail around a day in Eugene?
 
-Yes — we're appointment-only. This ensures your vehicle gets dedicated, focused attention from drop-off to pickup rather than being worked around other jobs. Book online or call (541) 968-2804.
+Yes. A full detail takes most of the day, so it pairs well with work or errands in town. We're open Monday to Friday, 9am to 6pm, by appointment. Book online or call (541) 968-2804.
 
-### Why do your Junction City customers choose Oregon Detail Co over closer options?
+### Does field dust hurt car paint?
 
-A few reasons come up consistently: our fully indoor facility delivers results year-round regardless of weather, our ceramic coating experience dates back to 2016 making us one of the most tenured installers in Lane County, and our 4.9-star rating across 220+ reviews reflects what Junction City and Eugene customers actually experience. There is no comparable indoor, appointment-only detailing facility in Junction City itself.
+The dust itself is mostly fine grit; wiping it off dry is what scratches. Rinse with plenty of water before you wash and use a pH-neutral car soap. A sealant or ceramic coating gives the dust less to cling to.
 
-### How often should I get my car detailed?
+### When is the best time of year to book?
 
-For most daily drivers in the Junction City and Eugene area, a full detail once or twice a year keeps the interior and exterior in good shape. If your vehicle has a ceramic coating, annual maintenance visits are included in your package. Vehicles exposed to heavy pollen, pet hair, or off-road conditions benefit from more frequent interior refreshes.
+Late summer, once the harvest dust settles, is a good time for a full detail inside and out. Fall, before the rain, is the time for a sealant or ceramic coating, so the paint is protected through the wet months.
 
 ### Do you offer gift certificates for customers?
 
