@@ -2,12 +2,12 @@
 title: "Oregon Detail Co | Eugene Detailing, Ceramic Coating & PPF"
 description: "Indoor, appointment-only auto detailing, ceramic coating and paint correction in Eugene, OR. 4.9 stars from 220+ reviews. Serving Lane County since 2016."
 url: "https://oregondetail.com"
-last_updated: "2026-11-12"
+last_updated: "2026-11-13"
 ---
 
 # Auto Detailing & Ceramic Coating — Eugene, Oregon
 
-Oregon Detail Co is an appointment-only auto detailing shop at 860 Conger St Unit 14, Eugene, OR 97402, serving Eugene, [Springfield](https://oregondetail.com/auto-detailing-springfield-oregon) and the rest of Lane County since 2016. The shop does interior and exterior detailing, [ceramic coating](https://oregondetail.com/ceramic-coating), paint protection film (PPF) and paint correction, from a quick interior refresh to full paint restoration.
+Oregon Detail Co is an appointment-only auto detailing shop at 860 Conger St Unit 14, Eugene, OR 97402, serving Eugene, [Springfield](https://oregondetail.com/auto-detailing-springfield-oregon) and the rest of Lane County since 2016. The shop does interior and exterior detailing, [ceramic coating](https://oregondetail.com/ceramic-coating), [paint protection film (PPF)](https://oregondetail.com/paint-protection-film) and paint correction, from a quick interior refresh to full paint restoration.
 
 The shop also handles [RV detailing](https://oregondetail.com/rv-services), headlight restoration and mold remediation. Every vehicle is worked on indoors in the 4,000 sq ft shop, a certified [Carfax service center](https://www.carfax.com/Reviews-Oregon-Detail-Company-Eugene-OR_XZGEAZRKNN#service). Book online and pick the time that works for you.
 
