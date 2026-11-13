@@ -2,7 +2,7 @@
 title: "Oregon Detail Co | Eugene Detailing, Ceramic Coating & PPF"
 description: "Indoor, appointment-only auto detailing, ceramic coating and paint correction in Eugene, OR. 4.9 stars from 220+ reviews. Serving Lane County since 2016."
 url: "https://oregondetail.com"
-last_updated: "2026-11-06"
+last_updated: "2026-11-12"
 ---
 
 # Auto Detailing & Ceramic Coating — Eugene, Oregon
@@ -30,6 +30,14 @@ You see the difference right away: water and dirt bead up and roll off, the pain
 ## RV Services
 
 Oregon Detail Co has detailed RVs in Eugene since 2016. Choose a basic wash, a full wash and wax, or the Elite Coach package, with decontamination, polish and RV ceramic coating available. Every RV, whatever its size, is done indoors and out of Oregon's weather. See [RV Services](https://oregondetail.com/rv-services).
+
+## Why an Indoor Shop
+
+Every vehicle is detailed inside the 4,000 sq ft shop at 860 Conger St, so weather never affects the work.
+
+- **Weather stays outside.** Rain, pollen, dust and wildfire ash can't land on fresh paint or a curing coating. Oregon weather never changes the result.
+- **Coatings cure properly.** Every ceramic coating cures indoors for at least 12 hours, so your vehicle stays overnight in a controlled space before it goes home.
+- **One bay, one team.** Your vehicle gets a dedicated bay and the same team from drop-off to pickup, with proper lighting to see every defect.
 
 ## Frequently Asked Questions
 
@@ -62,3 +70,5 @@ Wax or sealant sits on top of the paint and lasts around 6–8 months. A ceramic
 ### My headlights are yellow and foggy. Can they be fixed?
 
 Yes. Headlight restoration starts at $50 per headlight: the failed UV coating and oxidized plastic are wet sanded away, each lens is compounded and polished, then finished with two coats of UV-resistant ceramic. Every restoration includes a 2-year warranty.
+
+More answers: [FAQs](https://oregondetail.com/faqs)
