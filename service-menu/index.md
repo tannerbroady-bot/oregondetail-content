@@ -1,8 +1,8 @@
 ---
 title: "Detailing Packages & Prices in Eugene, OR — Oregon Detail Co"
-description: "Full detail packages from $280, plus interior, exterior, paint correction and ceramic coating prices in Eugene, OR. Appointment-only, fully indoor."
+description: "Full detail packages from $280, plus interior, exterior, paint correction, ceramic coating and paint protection film prices in Eugene, OR. Appointment-only, fully indoor."
 url: "https://oregondetail.com/service-menu"
-last_updated: "2026-11-06"
+last_updated: "2026-11-13"
 ---
 
 # Detail Menu – Auto Detailing Packages & Pricing in Eugene, Oregon
@@ -110,6 +110,19 @@ A semi-permanent, chemically bonded layer over the clear coat for years of gloss
 | Glass coating on windows | — | — | Included |
 | Annual exterior maintenance | 2 years | 5 years | 5 years |
 | Estimated time | 8 hrs | 10 hrs | 10 hrs |
+
+## Paint Protection Film
+
+A clear urethane film over the paint that takes the rock chips, scratches and road debris so the paint doesn't. Starting prices; every install begins with a wash, decontamination and paint correction, and the final price depends on the vehicle. Full details: https://oregondetail.com/paint-protection-film
+
+| Package | Coverage | Starting price |
+| --- | --- | --- |
+| Standard Front | Bumper, partial hood & partial fenders | From $1,200 |
+| Full Front | Bumper, full hood, full fenders & mirrors | From $2,100 |
+| Track Pack | Full Front plus A-pillars, roof edge, rockers & lower quarters | From $2,800 |
+| Full Wrap | Every painted panel | From $5,500 |
+
+Call (541) 968-2804 for a quote.
 
 ## Additional Services
 
