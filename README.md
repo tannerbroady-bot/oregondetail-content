@@ -6,7 +6,7 @@ Each file has YAML frontmatter (title, description, canonical URL, last updated)
 
 - **Canonical source:** oregondetail.com. If anything here differs from the live site, the live site is correct.
 - **Summary for AI systems:** https://oregondetail.com/llms.txt
-- **Last refreshed:** November 11, 2026
+- **Last refreshed:** November 12, 2026
 
 | Folder | Page |
 | --- | --- |
@@ -15,6 +15,7 @@ Each file has YAML frontmatter (title, description, canonical URL, last updated)
 | `ceramic-coating/` | https://oregondetail.com/ceramic-coating |
 | `rv-services/` | https://oregondetail.com/rv-services |
 | `classics/` | https://oregondetail.com/classics |
+| `faqs/` | https://oregondetail.com/faqs |
 | `glassparency-protection/` | https://oregondetail.com/glassparency-protection |
 | `springfield/` | https://oregondetail.com/auto-detailing-springfield-oregon |
 | `Cottage Grove/` | https://oregondetail.com/auto-detailing-cottage-grove-oregon |
