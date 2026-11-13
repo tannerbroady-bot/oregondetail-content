@@ -2,12 +2,12 @@
 title: "Auto Detailing in Springfield Oregon — Oregon Detail Co"
 description: "Oregon Detail Co serves Springfield, OR with professional auto detailing, ceramic coating & paint correction. Just 8 min from downtown Springfield. Book online."
 url: "https://oregondetail.com/auto-detailing-springfield-oregon"
-last_updated: "2026-11-06"
+last_updated: "2026-11-13"
 ---
 
 # Auto Detailing in Springfield, OR
 
-Oregon Detail Co is 4 miles from downtown Springfield, about 8 minutes across the river on OR-126 to our shop at 860 Conger St, Unit 14 in west Eugene. Springfield drivers have brought us their daily drivers, trucks and weekend cars since 2016 for full details, ceramic coating, paint correction, PPF and RV detailing.
+Oregon Detail Co is 4 miles from downtown Springfield, about 8 minutes across the river on OR-126 to our shop at 860 Conger St, Unit 14 in west Eugene. Springfield drivers have brought us their daily drivers, trucks and weekend cars since 2016 for full details, ceramic coating, paint correction, [PPF](https://oregondetail.com/paint-protection-film) and RV detailing.
 
 We're appointment-only and every vehicle is worked on indoors in our 4,000 sq ft shop, a certified [Carfax service center](https://www.carfax.com/Reviews-Oregon-Detail-Company-Eugene-OR_XZGEAZRKNN#service). The short drive makes it easy to drop a car off on the way to work and pick it up on the way home.
 
