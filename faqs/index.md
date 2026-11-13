@@ -59,9 +59,19 @@ Wax and sealants sit on top of the paint and wear off in months. A ceramic coati
 
 Yes. A 1-Stage Paint Enhancement (from $300) removes 50–70% of defects, and a 2-Stage Paint Correction (from $600) removes 90–95%. For show cars or heavily damaged paint, a 4-Stage Concours Restoration removes 98–99% and is quoted in person.
 
+## Paint Protection Film
+
 ### Do you install paint protection film (PPF)?
 
-Yes. PPF is quoted for each vehicle based on the coverage you want. Call (541) 968-2804 for a quote.
+Yes, indoors at our shop, in four packages: Standard Front from $1,200, Full Front from $2,100, Track Pack from $2,800 and Full Wrap from $5,500. Your final price depends on your vehicle. See [paint protection film](https://oregondetail.com/paint-protection-film) for what each package covers, or call (541) 968-2804 for a quote.
+
+### Which PPF package should I choose?
+
+Standard Front covers the bumper and the front of the hood and fenders, where most rock chips land. Full Front covers the whole hood and fenders plus the mirrors, so no film line shows. Track Pack adds the A-pillars, roof edge, rockers, lower doors, lower rear quarters, door edges and handle cups. Full Wrap covers every painted panel.
+
+### Should I get PPF or a ceramic coating?
+
+They do different jobs. PPF is a physical layer that takes rock chips and scratches. A ceramic coating adds gloss and makes washing easier, but it doesn't stop chips. Many owners put PPF on the front end and coat the whole car. Our [PPF vs ceramic coating guide](https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon) goes into more detail.
 
 ## Other Services
 
