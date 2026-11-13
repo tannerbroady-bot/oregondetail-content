@@ -1,6 +1,6 @@
 # oregondetail-content
 
-Clean markdown mirrors of the main pages on [oregondetail.com](https://oregondetail.com), the website of Oregon Detail Co, an appointment-only, fully indoor auto detailing, paint correction, ceramic coating and RV detailing shop at 860 Conger St Unit 14, Eugene, Oregon.
+Clean markdown mirrors of the main pages on [oregondetail.com](https://oregondetail.com), the website of Oregon Detail Co, an appointment-only, fully indoor auto detailing, paint correction, ceramic coating, paint protection film (PPF) and RV detailing shop at 860 Conger St Unit 14, Eugene, Oregon.
 
 Each file has YAML frontmatter (title, description, canonical URL, last updated) and the page's content as plain markdown, without Squarespace markup, for AI retrieval and parsing.
 
@@ -13,6 +13,7 @@ Each file has YAML frontmatter (title, description, canonical URL, last updated)
 | `home/` | https://oregondetail.com |
 | `service-menu/` | https://oregondetail.com/service-menu |
 | `ceramic-coating/` | https://oregondetail.com/ceramic-coating |
+| `paint-protection-film/` | https://oregondetail.com/paint-protection-film |
 | `rv-services/` | https://oregondetail.com/rv-services |
 | `classics/` | https://oregondetail.com/classics |
 | `faqs/` | https://oregondetail.com/faqs |
