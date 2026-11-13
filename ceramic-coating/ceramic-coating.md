@@ -2,7 +2,7 @@
 title: "Ceramic Coating in Eugene: 2 & 5 Years — Oregon Detail Co"
 description: "Ceramic coating in Eugene, OR from $750. 2- and 5-year warranties with annual maintenance included. Installed indoors by an installer since 2016."
 url: "https://oregondetail.com/ceramic-coating"
-last_updated: "2026-11-06"
+last_updated: "2026-11-12"
 ---
 
 # Professional Ceramic Coating Installation in Eugene, OR
@@ -84,7 +84,7 @@ It depends on the package. Level 1 carries a 2-year warranty and is a great star
 
 ### Does ceramic coating prevent rock chips and scratches?
 
-Ceramic coating increases resistance to light swirls and environmental damage, but it does not protect against rock chips or deep scratches from road debris. For impact protection, paint protection film (PPF) is the right product. Many vehicles benefit from PPF on high-impact zones combined with ceramic coating over the entire vehicle.
+Ceramic coating increases resistance to light swirls and environmental damage, but it does not protect against rock chips or deep scratches from road debris. For impact protection, [paint protection film (PPF)](https://oregondetail.com/paint-protection-film) is the right product. Many vehicles benefit from PPF on high-impact zones combined with ceramic coating over the entire vehicle.
 
 ### What does the ceramic coating installation process look like?
 
