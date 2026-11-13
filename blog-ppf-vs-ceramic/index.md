@@ -4,7 +4,7 @@ description: "PPF stops rock chips; ceramic coating stops UV, water spots and ox
 url: "https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon"
 author: "Tanner Broady"
 date_published: "2026-04-16"
-last_updated: "2026-11-06"
+last_updated: "2026-11-12"
 ---
 
 # PPF vs Ceramic Coating: Which Does Your Car Actually Need?
@@ -54,7 +54,7 @@ The fundamental difference comes down to what kind of damage you're protecting a
 
 **Ceramic coating protects against environmental damage.** UV rays, water spots, oxidation, bird droppings, tree sap — these are chemical and environmental threats that PPF alone doesn't fully address. A bare PPF film without ceramic coating on top will still wear over time and require maintenance.
 
-**Cost** is another major difference. PPF is significantly more expensive because it's a labor-intensive installation that requires precise cutting and fitting to your specific vehicle. A full front end PPF installation typically starts around $1,800–$2,200. A full vehicle wrap can run $6,000–$8,000 or more depending on vehicle size and film grade. Ceramic coating at Oregon Detail Co starts at $750 for a 2-year package and goes up to $2,150 for full 5-year coverage including glass, wheels, and trim.
+**Cost** is another major difference. PPF is significantly more expensive because it's a labor-intensive installation that requires precise cutting and fitting to your specific vehicle. At Oregon Detail Co, PPF packages start at $1,200 for a Standard Front, $2,100 for a Full Front and $5,500 for a Full Wrap, depending on vehicle size. Ceramic coating at Oregon Detail Co starts at $750 for a 2-year package and goes up to $2,150 for full 5-year coverage including glass, wheels, and trim.
 
 **Durability** differs as well. High quality PPF can last 10 years or more with proper care. Ceramic coating at our Level 2 and Level 3 packages carries a 5-year warranty with complimentary annual maintenance visits included.
 
@@ -62,7 +62,7 @@ The fundamental difference comes down to what kind of damage you're protecting a
 | --- | --- | --- |
 | Protects against | Rock chips, road debris, door dings, scratches | UV, oxidation, water spots, chemical etching, contamination |
 | Form | 8–10 mil thermoplastic film | Liquid polymer bonded to clear coat |
-| Typical cost | Full front ~$1,800–$2,200; full wrap $6,000–$8,000+ | $750–$2,150 at Oregon Detail Co |
+| Typical cost | From $1,200 (Standard Front), $2,100 (Full Front), $2,800 (Track Pack), $5,500 (Full Wrap) at Oregon Detail Co | $750–$2,150 at Oregon Detail Co |
 | Lifespan | 7–10+ years | 2–5 year warranty (by package) |
 
 ## Can You Have Both?
@@ -93,7 +93,7 @@ At Oregon Detail Co we've been installing ceramic coatings since 2016 and PPF fo
 
 Every ceramic coating installation at our Eugene facility includes a full paint decontamination and enhancement polish before the coating goes on. We never apply ceramic coating over contaminated or defective paint — that locks problems in permanently. If your paint has existing chips or scratches, we'll tell you honestly whether correction or PPF is the right first step.
 
-Ceramic coating packages start at $750 for 2-year protection and go up to $2,150 for our Level 3 full coverage package with a 5-year warranty. PPF pricing depends on coverage area and vehicle — call us at (541) 968-2804 for a quote.
+Ceramic coating packages start at $750 for 2-year protection and go up to $2,150 for our Level 3 full coverage package with a 5-year warranty. PPF packages start at $1,200, with the final price based on coverage and vehicle — call us at (541) 968-2804 for a quote.
 
 ## Frequently Asked Questions
 
@@ -121,6 +121,8 @@ At Oregon Detail Co our Level 1 package carries a 2-year warranty ($750–$950).
 
 We're located at 860 Conger St Unit 14 in Eugene, Oregon — just 8 minutes from downtown Springfield via OR-126. Appointment-only, fully indoor facility. Book online at oregondetail.com or call (541) 968-2804.
 
-*Oregon Detail Co has been protecting vehicles in Eugene, Springfield, and Lane County since 2016. View our ceramic coating packages at [oregondetail.com/ceramic-coating](https://oregondetail.com/ceramic-coating) or call (541) 968-2804 to discuss what's right for your vehicle.*
+*Oregon Detail Co has been protecting vehicles in Eugene, Springfield, and Lane County since 2016. See our [paint protection film packages](https://oregondetail.com/paint-protection-film) and [ceramic coating packages in Eugene](https://oregondetail.com/ceramic-coating) or call (541) 968-2804 to discuss what's right for your vehicle.*
 
 Related: [Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It](https://oregondetail.com/blog/ceramic-coating-eugene-oregon)
+
+Related: [Paint Protection Film (PPF) packages in Eugene, OR](https://oregondetail.com/paint-protection-film)
