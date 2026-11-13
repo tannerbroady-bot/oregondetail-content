@@ -2,12 +2,12 @@
 title: "Auto Detailing in Junction City Oregon — Oregon Detail Co"
 description: "Auto detailing, ceramic coating and paint correction for Junction City, OR drivers, 22 minutes away in Eugene via Hwy 99. Book online."
 url: "https://oregondetail.com/auto-detailing-junction-city-oregon"
-last_updated: "2026-11-06"
+last_updated: "2026-11-13"
 ---
 
 # Auto Detailing in Junction City, Oregon
 
-Oregon Detail Co is 18 miles south of downtown Junction City, about 22 minutes down Highway 99 to our shop at 860 Conger St, Unit 14 in west Eugene. Since 2016 we've detailed cars, trucks and RVs for Junction City drivers, from full interior and exterior details to ceramic coating, paint correction and PPF.
+Oregon Detail Co is 18 miles south of downtown Junction City, about 22 minutes down Highway 99 to our shop at 860 Conger St, Unit 14 in west Eugene. Since 2016 we've detailed cars, trucks and RVs for Junction City drivers, from full interior and exterior details to ceramic coating, paint correction and [PPF](https://oregondetail.com/paint-protection-film).
 
 We're appointment-only, and every vehicle is worked on indoors in our 4,000 sq ft shop, a certified [Carfax service center](https://www.carfax.com/Reviews-Oregon-Detail-Company-Eugene-OR_XZGEAZRKNN#service). Because the shop is on the west side of Eugene, the drive from Junction City is a straight run south.
 
