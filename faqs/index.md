@@ -23,6 +23,10 @@ You bring it to us. Every vehicle is detailed inside our 4,000 sq ft shop at 860
 
 Plan on about 5 hours for a Deluxe Detail, 6 hours for a Classic Detail and 8 hours for an Ultimate Detail. Paint correction takes 8 to 10 hours. Ceramic coatings stay overnight so the coating can cure indoors, and a 4-Stage Concours Restoration takes at least 3 days.
 
+### Can I drop off my car before you open?
+
+Yes. We open at 9am, Monday to Friday, and there's a key drop box on the building, so you can leave your car and keys before we open.
+
 ### What areas do you serve?
 
 Our shop is in Eugene, and customers come in from [Springfield](https://oregondetail.com/auto-detailing-springfield-oregon), [Junction City](https://oregondetail.com/auto-detailing-junction-city-oregon), [Cottage Grove](https://oregondetail.com/auto-detailing-cottage-grove-oregon), Glenwood, Creswell, Veneta, Alvadore and across Lane County.
