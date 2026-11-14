@@ -1,5 +1,5 @@
 ---
-title: "Auto Detailing in Junction City Oregon — Oregon Detail Co"
+title: "Auto Detailing for Junction City, OR — Oregon Detail Co"
 description: "Auto detailing, ceramic coating and paint correction for Junction City, OR drivers, 22 minutes away in Eugene via Hwy 99. Book online."
 url: "https://oregondetail.com/auto-detailing-junction-city-oregon"
 last_updated: "2026-11-13"
@@ -21,7 +21,7 @@ We're appointment-only, and every vehicle is worked on indoors in our 4,000 sq f
 
 Around Junction City, vehicles pick up field dust and grass seed chaff in the dry months and mud from farm roads in the wet ones. A ceramic coating keeps that grime from bonding to the paint, so it rinses off instead of needing scrubbing, and the finish stays glossy through the seasons.
 
-We've installed ceramic coatings in Eugene since 2016. Choose a 2-year or 5-year coating, both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+We've installed ceramic coatings in Eugene since 2016. Choose a [2-year or 5-year coating](https://oregondetail.com/ceramic-coating), both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
 
 ## RV Detailing North of Eugene
 
