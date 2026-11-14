@@ -45,7 +45,7 @@ A [ceramic coating](https://oregondetail.com/ceramic-coating) bonds to the clear
 
 ### Paint protection film: for chips, not just grime
 
-If your main worry is rock chips from sanded roads and highway driving, paint protection film on the front end is the physical barrier. Many owners pair PPF on the front with ceramic coating on the rest. We compare the two in [PPF vs Ceramic Coating in Eugene](https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon).
+If your main worry is rock chips from sanded roads and highway driving, [paint protection film on the front end](https://oregondetail.com/paint-protection-film) is the physical barrier. Many owners pair PPF on the front with ceramic coating on the rest. We compare the two in [PPF vs Ceramic Coating in Eugene](https://oregondetail.com/blog/ppf-vs-ceramic-coating-eugene-oregon).
 
 ## When to book
 
