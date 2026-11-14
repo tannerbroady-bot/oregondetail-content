@@ -41,7 +41,7 @@ Eugene's wet season runs from mid-October into May. A sealant or ceramic coating
 
 PPF and ceramic coating both protect your paint, but they do completely different things. One stops rock chips; the other stops UV, water spots and oxidation. An honest breakdown from a shop that installs both.
 
-### [Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It](https://oregondetail.com/blog/ceramic-coating-eugene-oregon)
+### [How Much Does Ceramic Coating Cost in Eugene, OR?](https://oregondetail.com/blog/ceramic-coating-eugene-oregon)
 
 *Tanner Broady · April 13, 2026*
 
