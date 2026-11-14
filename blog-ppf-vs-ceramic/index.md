@@ -19,12 +19,12 @@ Here's the honest breakdown from a shop that installs both.
 
 ## What Is Paint Protection Film (PPF)?
 
-Paint protection film — also called PPF or clear bra — is a thick, transparent thermoplastic film that physically adheres to your vehicle's paint. Think of it as an invisible armor layer. It's typically between 8 to 10 mils thick, which means it can absorb real physical impact.
+Paint protection film — also called PPF or clear bra — is a thick, transparent thermoplastic film that physically adheres to your vehicle's paint. Think of it as an invisible armor layer. It's typically between 8 and 10 mils thick, which means it can absorb real physical impact.
 
 PPF is designed to protect your paint against:
 
 - Rock chips and road debris
-- Door dings and scratches
+- Door-edge chips and scratches
 - Bug splatter and bird droppings
 - Light abrasions from brushes and car washes
 
@@ -54,16 +54,16 @@ The fundamental difference comes down to what kind of damage you're protecting a
 
 **Ceramic coating protects against environmental damage.** UV rays, water spots, oxidation, bird droppings, tree sap — these are chemical and environmental threats that PPF alone doesn't fully address. A bare PPF film without ceramic coating on top will still wear over time and require maintenance.
 
-**Cost** is another major difference. PPF is significantly more expensive because it's a labor-intensive installation that requires precise cutting and fitting to your specific vehicle. At Oregon Detail Co, PPF packages start at $1,200 for a Standard Front, $2,100 for a Full Front and $5,500 for a Full Wrap, depending on vehicle size. Ceramic coating at Oregon Detail Co starts at $750 for a 2-year package and goes up to $2,150 for full 5-year coverage including glass, wheels, and trim.
+**Cost** is another major difference. PPF is significantly more expensive because it's a labor-intensive installation that requires precise cutting and fitting to your specific vehicle. At Oregon Detail Co, PPF packages start at $1,200 for a Standard Front, $2,100 for a Full Front, $2,800 for a Track Pack and $5,500 for a Full Wrap, depending on vehicle size. Ceramic coating at Oregon Detail Co starts at $750 for a 2-year package and goes up to $2,150 for full 5-year coverage including glass, wheels, and trim.
 
-**Durability** differs as well. High quality PPF can last 10 years or more with proper care. Ceramic coating at our Level 2 and Level 3 packages carries a 5-year warranty with complimentary annual maintenance visits included.
+**Durability** differs as well. High-quality PPF typically lasts 7 to 10 years with proper care. Ceramic coating at our Level 2 and Level 3 packages carries a 5-year warranty with complimentary annual maintenance visits included.
 
 | | PPF | Ceramic coating |
 | --- | --- | --- |
-| Protects against | Rock chips, road debris, door dings, scratches | UV, oxidation, water spots, chemical etching, contamination |
+| Protects against | Rock chips, road debris, door-edge chips, scratches | UV, oxidation, water spots, chemical etching, contamination |
 | Form | 8–10 mil thermoplastic film | Liquid polymer bonded to clear coat |
 | Typical cost | From $1,200 (Standard Front), $2,100 (Full Front), $2,800 (Track Pack), $5,500 (Full Wrap) at Oregon Detail Co | $750–$2,150 at Oregon Detail Co |
-| Lifespan | 7–10+ years | 2–5 year warranty (by package) |
+| Lifespan | 7–10 years | 2–5 year warranty (by package) |
 
 ## Can You Have Both?
 
@@ -85,7 +85,7 @@ Eugene and Springfield drivers deal with a specific combination of conditions th
 
 Ceramic coating is particularly well-suited to Oregon conditions because it directly addresses the environmental threats that do the most damage here — pollen bonding to paint, water spots from mineral-rich tap water, and UV fading during summer months. If you've noticed your paint looking dull or feeling rough to the touch, those are signs of environmental contamination that ceramic coating prevents.
 
-PPF is worth considering if you regularly drive highways, I-5, or any rural roads where gravel and debris are common — the front end of your vehicle takes the brunt of that damage and PPF is the only product that physically stops it.
+PPF is worth considering if you regularly drive highways like I-5 or any rural roads where gravel and debris are common — the front end of your vehicle takes the brunt of that damage and PPF is the only product that physically stops it.
 
 ## Oregon Detail Co's Approach
 
@@ -103,7 +103,7 @@ Yes — and it's actually recommended. Applying ceramic coating over PPF protect
 
 ### How long does PPF last?
 
-High quality PPF products typically last 7–10 years with proper care. Self-healing films perform best when maintained with regular washing and occasional professional decontamination.
+High-quality PPF products typically last 7 to 10 years with proper care. Self-healing films perform best when maintained with regular washing and occasional professional decontamination.
 
 ### Does ceramic coating prevent rock chips?
 
