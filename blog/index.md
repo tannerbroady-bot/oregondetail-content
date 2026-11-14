@@ -2,7 +2,7 @@
 title: "Car Care Blog: Detailing Tips & Guides — Oregon Detail Co"
 description: "Ceramic coating, paint correction and car care guides for Eugene and Springfield drivers, written by Oregon Detail Co's detailers."
 url: "https://oregondetail.com/blog"
-last_updated: "2026-11-11"
+last_updated: "2026-11-13"
 ---
 
 # Oregon Detail Co Blog — Car Care Tips for Oregon Drivers
@@ -10,6 +10,12 @@ last_updated: "2026-11-11"
 Guides on ceramic coating, paint protection and car care for Eugene, Springfield and Lane County drivers, written by Tanner Broady, founder of Oregon Detail Co.
 
 ## Posts
+
+### [Single-Stage Paint on Classic Cars: What a Detailer Can Safely Do](https://oregondetail.com/blog/single-stage-paint-classic-cars)
+
+*Tanner Broady · November 13, 2026*
+
+Single-stage paint can often be brought back, but it's thin and every polishing pass removes some of it. Here's what a careful detailer does, and when to stop.
 
 ### [Restoration Detailing in Eugene: Mold, Smoke Odor, Rodent Damage and Oxidized RVs](https://oregondetail.com/blog/restoration-detailing-eugene)
 
@@ -40,3 +46,15 @@ PPF and ceramic coating both protect your paint, but they do completely differen
 *Tanner Broady · April 13, 2026*
 
 Ceramic coating costs, durability and what to expect from a professional installation in Eugene, OR. Real pricing, honest answers.
+
+### [When Is the Best Time of Year for Ceramic Coating in the Willamette Valley?](https://oregondetail.com/blog/best-time-ceramic-coating-oregon)
+
+*Tanner Broady · November 4, 2024*
+
+Any season works at an indoor shop. The best time depends on what you want the coating to handle next: the wet season, pollen, or summer sun and bugs.
+
+### [RV Roof Care in Oregon: A Year-Round Schedule for Wet Winters](https://oregondetail.com/blog/rv-roof-care-oregon)
+
+*Tanner Broady · September 1, 2024*
+
+Clean and protect the roof once a year before the rain, keep it clear through the wet season, and wash and wax in spring. Here's the schedule we recommend.
