@@ -19,7 +19,7 @@ These are the jobs we take on at Oregon Detail Co. Since 2016 we have handled re
 
 Oregon's wet winters make mold one of the most common restoration jobs we see. It usually starts with a water leak, a wet carpet that never dried, or a car that sat closed up for a season. By the time you notice the smell or the spots, it has often spread into the seat fabric, carpet padding and vents.
 
-We clean the seats, carpet, headliner and vents, then treat the odor at its source. If a leak is causing the problem, we will point you to where leak diagnosis can be done and the water intrusion can be fixed, otherwise the mold comes back. The complexity of mold and mildew remediation can vary, with some cases requiring disassembly and teardown to assess carpet padding or for thorough treatment of mold.
+We clean the seats, carpet, headliner and vents, then treat the odor at its source. If a leak is causing the problem, we will point you to where leak diagnosis can be done and the water intrusion can be fixed; otherwise the mold comes back. The complexity of mold and mildew remediation can vary, with some cases requiring disassembly and teardown to assess carpet padding or for thorough treatment of mold.
 
 ## Smoke and odor removal
 
@@ -29,7 +29,7 @@ We deep clean every surface the smoke touched, not just the obvious ones. Depend
 
 ## Rodent and moisture damage
 
-Stored vehicles, trailers and RVs are a favorite home for mice. Nests, droppings and the smell they leave behind end up in cabins, trunks and storage bays. We remove the contamination, then thoroughly detail, sterilize, and odor treat the entire vehicle.
+Stored vehicles, trailers and RVs are a favorite home for mice. Nests, droppings and the smell they leave behind end up in cabins, trunks and storage bays. We remove the contamination, then thoroughly detail, sterilize and odor-treat the entire vehicle.
 
 ## Oxidized RVs, trailers and fiberglass
 
