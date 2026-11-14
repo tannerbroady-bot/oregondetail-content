@@ -1,5 +1,5 @@
 ---
-title: "Auto Detailing in Springfield Oregon — Oregon Detail Co"
+title: "Auto Detailing for Springfield, OR — Oregon Detail Co"
 description: "Oregon Detail Co serves Springfield, OR with professional auto detailing, ceramic coating & paint correction. Just 8 min from downtown Springfield. Book online."
 url: "https://oregondetail.com/auto-detailing-springfield-oregon"
 last_updated: "2026-11-13"
@@ -21,7 +21,7 @@ We're appointment-only and every vehicle is worked on indoors in our 4,000 sq ft
 
 If your week includes the daily run on I-105 and OR-126, or weekend trips up the McKenzie Highway, your paint picks up road film, tree sap and bug splatter faster than you'd think. A ceramic coating keeps that grime from bonding, so the car stays cleaner between washes and rinses off easily when you do wash it.
 
-We've installed ceramic coatings in Eugene since 2016. Choose a 2-year or 5-year coating, both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+We've installed ceramic coatings in Eugene since 2016. Choose a [2-year or 5-year coating](https://oregondetail.com/ceramic-coating), both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
 
 ## RV Detailing for Springfield Owners
 
