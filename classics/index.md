@@ -1,6 +1,6 @@
 ---
 title: "Classic Car Detailing Eugene OR — Oregon Detail Co"
-description: "Oregon Detail Co specializes in classic & concours car detailing in Eugene, OR. Paint correction, restoration, and protection for vintage vehicles. 10+ years experience."
+description: "Oregon Detail Co specializes in classic & concours car detailing in Eugene, OR. Paint correction, restoration, and protection for vintage vehicles. 10+ years of experience."
 url: "https://oregondetail.com/classics"
 last_updated: "2026-11-06"
 ---
@@ -38,7 +38,7 @@ Past classic and show cars detailed at the shop include:
 
 - 1937 Packard 1508 Berline Twelve
 - 1959 Bocar X-P5
-- 1952 Lancia B-Junior Pebble Car (1 of 2)
+- 1952 Lancia B-Junior Pebble Beach Car (1 of 2)
 - 1934 MG PA
 - 1928 Ford Model A
 - 1937 Ford Coupe
