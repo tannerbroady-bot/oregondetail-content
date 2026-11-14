@@ -47,7 +47,7 @@ For a full detail, paint correction or ceramic coating, yes. We work indoors in 
 
 ### How should I plan drop-off from Cottage Grove?
 
-Most full details take the better part of a day, and ceramic coatings stay overnight. We're open Monday to Friday, 9am to 6pm, by appointment. Book online or call (541) 968-2804 to pick drop-off and pickup times that work with the drive.
+Most full details take the better part of a day, and ceramic coatings stay overnight. We're open Monday to Friday, 9am to 6pm, by appointment, and if you arrive before we open, leave your keys in the key drop box on the building. Book online or call (541) 968-2804 to pick drop-off and pickup times that work with the drive.
 
 ### What do gravel roads do to my paint?
 
