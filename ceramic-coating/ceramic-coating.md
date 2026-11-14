@@ -2,7 +2,7 @@
 title: "Ceramic Coating in Eugene: 2 & 5 Years — Oregon Detail Co"
 description: "Ceramic coating in Eugene, OR from $750. 2- and 5-year warranties with annual maintenance included. Installed indoors by an installer since 2016."
 url: "https://oregondetail.com/ceramic-coating"
-last_updated: "2026-11-12"
+last_updated: "2026-11-14"
 ---
 
 # Professional Ceramic Coating Installation in Eugene, OR
@@ -72,13 +72,63 @@ The most coverage on every exterior surface.
 
 Coating is never applied over contaminated or defective paint, and the vehicle stays overnight at minimum.
 
+
+## What Ceramic Coating Does
+
+A ceramic coating is a liquid polymer applied by hand that cures into a bond with your factory clear coat. Unlike wax, it doesn't wash off in a few weeks.
+
+**What it does**
+
+- Water and road film bead up and roll off after every rain
+- Tree sap, pollen and bird droppings wipe off before they etch
+- Deeper gloss than wax, with UV protection through Oregon summers
+- Washes take a fraction of the time
+
+**What it doesn't do**
+
+- Stop rock chips or deep scratches. That's [paint protection film](https://oregondetail.com/paint-protection-film), and the two pair well.
+- Make paint scratch-proof. No product does.
+- Hide swirls. That's why every package starts with a polish.
+
+## Drop-Off, Aftercare and Other Vehicles
+
+Plan on leaving your vehicle with us overnight at minimum.
+
+**Drop-off and pickup**
+
+- About 8 hours of work for Level 1 and about 10 for Levels 2 and 3
+- At least 12 hours of indoor curing before delivery
+- Drop off by appointment, Monday–Friday 9am–6pm. Coming before 9am? Leave your keys in the key drop box on the building.
+- Pickup includes a walkthrough of coating care
+
+**Caring for your coating**
+
+- Wait at least 7 days before the first wash so the coating fully cures
+- Hand wash with pH-neutral soap and a microfiber mitt
+- Skip automatic car washes with brushes
+- Come in for your annual maintenance visit, included for the warranty period
+
+**RVs, boats and classics**
+
+We coat RVs and travel trailers, boats, motorcycles and classics with original paint. These are quoted by size and condition. Call (541) 968-2804. See [RV services](https://oregondetail.com/rv-services) or [classic car care](https://oregondetail.com/classics).
+
+Every coating is installed inside our 4,000 sq ft shop at 860 Conger St Unit 14 in Eugene. Customers come from [Springfield](https://oregondetail.com/auto-detailing-springfield-oregon), [Cottage Grove](https://oregondetail.com/auto-detailing-cottage-grove-oregon), [Junction City](https://oregondetail.com/auto-detailing-junction-city-oregon) and across Lane County.
+
 > "As a detailer, I am always chasing that ultimate goal of total car protection from everything the road and weather can throw at me. These protective coatings are a step towards that goal. I started installing ceramic coatings in 2016 and have been one of the premier and most tenured installers in Oregon since. With several hundred vehicles under my shop's belt, and lots of real-world, Oregon-environment results, I can assure you that with a proper installation you will love your coating for years to come." — Tanner Broady, founder
 
-Further reading: [Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It](https://oregondetail.com/blog/ceramic-coating-eugene-oregon)
+What does ceramic coating cost? Prices by package and vehicle size, and whether a coating is worth it in Oregon: [read the cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
 
 ## Ceramic Coating FAQ
 
 More answers on booking, timing and aftercare are on our [FAQ page](https://oregondetail.com/faqs). Wondering when to book? See [the best time of year for ceramic coating](https://oregondetail.com/blog/best-time-ceramic-coating-oregon).
+
+### How much does ceramic coating cost in Eugene?
+
+Level 1 (2-year warranty) is $750, $850 or $950 depending on [vehicle size](https://oregondetail.com/service-menu). Level 2 (5-year) is $1,350 to $1,750, and Level 3 (5-year, all surfaces) is $1,750 to $2,150. Every level includes prep, an enhancement polish and annual maintenance for the warranty period.
+
+### How long will you have my car?
+
+Overnight at minimum. Level 1 takes about 8 hours of work and Levels 2 and 3 about 10, followed by at least 12 hours of indoor curing.
 
 ### How long does ceramic coating last?
 
