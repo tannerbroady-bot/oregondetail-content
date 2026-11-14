@@ -19,7 +19,7 @@ Show detailing is a highly detailed process built on respecting and preserving t
 - **Owners, shops & collectors** — trusted by individual owners, restoration shops and collections
 - **Award-winning finishes** — concours-level work that helps classics win awards
 
-Interested in a ceramic coating for your classic? See the [coating packages](https://oregondetail.com/ceramic-coating).
+Interested in a ceramic coating for your classic? See the [coating packages](https://oregondetail.com/ceramic-coating). Original single-stage paint is measured and corrected only as far as it can safely go. Our guide to [single-stage paint on classic cars](https://oregondetail.com/blog/single-stage-paint-classic-cars) explains how, and our [restoration detailing guide](https://oregondetail.com/blog/restoration-detailing-eugene) covers mold, smoke odor and other stored-car problems.
 
 ## Packages & Pricing
 
