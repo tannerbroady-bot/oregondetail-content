@@ -7,7 +7,7 @@ last_updated: "2026-11-11"
 
 # Privacy Policy
 
-*Effective November 11, 2026*
+*Effective November 13, 2026*
 
 Oregon Detail Co runs oregondetail.com. This page explains what information we collect, how we use it, and the choices you have. We keep it short on purpose.
 
@@ -42,7 +42,7 @@ Our website has no contact forms or newsletter sign-ups.
 
 ## Text messages
 
-If you've given us your mobile number, we may send you appointment messages and occasional marketing texts. You can stop marketing texts at any time by replying STOP. Message and data rates may apply. We do not share mobile numbers with anyone else for their marketing.
+If you've given us your mobile number, we may send you appointment messages and occasional marketing texts. Message frequency varies. You can stop marketing texts at any time by replying STOP, or reply HELP for help. Message and data rates may apply. Agreeing to receive marketing texts is not a condition of any purchase. We do not share mobile numbers with anyone else for their marketing.
 
 ## Who we share it with
 
@@ -61,7 +61,7 @@ Each of these companies handles information under its own privacy policy. We may
 ## Your choices
 
 - **Cookies:** you can block or delete cookies in your browser settings. The site will still work.
-- **Google ads:** you can turn off personalized Google ads at [adssettings.google.com](https://adssettings.google.com).
+- **Google ads:** you can turn off personalized Google ads in [My Ad Center (myadcenter.google.com)](https://myadcenter.google.com).
 - **Text messages:** reply STOP to any marketing text to stop receiving them.
 
 ## Seeing, correcting or deleting your information
