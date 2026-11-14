@@ -1,5 +1,5 @@
 ---
-title: "Auto Detailing in Cottage Grove Oregon — Oregon Detail Co"
+title: "Auto Detailing for Cottage Grove, OR — Oregon Detail Co"
 description: "Oregon Detail Co serves Cottage Grove, OR with professional auto detailing, ceramic coating & paint correction. Just 24 min from Cottage Grove via I-5. Book online."
 url: "https://oregondetail.com/auto-detailing-cottage-grove-oregon"
 last_updated: "2026-11-13"
@@ -21,7 +21,7 @@ With the drive, it's easiest to drop off in the morning and pick up the same eve
 
 Driving from Cottage Grove usually means I-5 at highway speed, plus gravel and county roads out toward Dorena Lake and along the Row River. A ceramic coating won't stop rock chips (that's what [paint protection film](https://oregondetail.com/paint-protection-film) is for), but it keeps dust, mud and road film from bonding, so a car or truck cleans up quickly after a dirt road.
 
-We've installed ceramic coatings in Eugene since 2016. Choose a 2-year or 5-year coating, both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+We've installed ceramic coatings in Eugene since 2016. Choose a [2-year or 5-year coating](https://oregondetail.com/ceramic-coating), both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
 
 ## RV Detailing Before and After Lake Season
 
