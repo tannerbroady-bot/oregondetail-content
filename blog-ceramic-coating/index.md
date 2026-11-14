@@ -1,19 +1,19 @@
 ---
-title: "Ceramic Coating in Eugene: Cost and Value — Oregon Detail Co"
-description: "What ceramic coating costs in Eugene, OR, how long it lasts and whether it's worth it, from an installer coating cars since 2016. From $750."
+title: "How Much Does Ceramic Coating Cost in Eugene? — Oregon Detail Co"
+description: "Ceramic coating in Eugene, OR costs $750 to $2,150 depending on the package and vehicle size. What each level includes, how long it lasts and whether it's worth it."
 url: "https://oregondetail.com/blog/ceramic-coating-eugene-oregon"
 author: "Tanner Broady"
 date_published: "2026-04-13"
-last_updated: "2026-11-06"
+last_updated: "2026-11-14"
 ---
 
-# Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It
+# How Much Does Ceramic Coating Cost in Eugene, OR?
 
 *By Tanner Broady, founder of Oregon Detail Co · April 13, 2026*
 
 If you've been driving around Eugene for any length of time, you already know what Oregon weather does to a vehicle. Rain from mid-October into May, tree sap and pollen from the valley floor, summer UV baking your paint through July and August, and bird droppings that can etch clear coat in a matter of hours if you don't catch them. It's a tough environment for any paint finish — and it's exactly why ceramic coatings have become one of the most requested services at Oregon Detail Co.
 
-We've been installing ceramic coatings in Eugene since 2016 and have completed hundreds of installations across every vehicle type imaginable. This post answers the questions we hear most often from Eugene drivers before they book — what ceramic coating actually is, what it costs, how long it lasts, and whether it makes sense for your specific situation.
+We've been installing [ceramic coatings in Eugene](https://oregondetail.com/ceramic-coating) since 2016 and have completed hundreds of installations across every vehicle type imaginable. This post answers the questions we hear most often from Eugene drivers before they book — what ceramic coating actually is, what it costs, how long it lasts, and whether it makes sense for your specific situation.
 
 ## What Is Ceramic Coating?
 
