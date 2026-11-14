@@ -5,7 +5,7 @@ url: "https://oregondetail.com/faqs"
 last_updated: "2026-11-12"
 ---
 
-# Auto Detailing FAQs
+# Auto Detailing FAQs in Eugene, OR
 
 Answers to the questions Oregon Detail Co hears most at the Eugene shop. Call (541) 968-2804, Monday to Friday, 9 to 6.
 
@@ -59,6 +59,10 @@ Wax and sealants sit on top of the paint and wear off in months. A ceramic coati
 
 Yes. A 1-Stage Paint Enhancement (from $300) removes 50–70% of defects, and a 2-Stage Paint Correction (from $600) removes 90–95%. For show cars or heavily damaged paint, a 4-Stage Concours Restoration removes 98–99% and is quoted in person.
 
+### How do I care for my car after a ceramic coating?
+
+Wait at least seven days before the first wash. After that, hand wash with a pH-neutral soap and a microfiber mitt. Touchless washes are fine, but skip automatic washes with brushes. Your annual maintenance visit is included for the warranty period.
+
 ## Paint Protection Film
 
 ### Do you install paint protection film (PPF)?
@@ -90,5 +94,13 @@ Yes, indoors at the same shop. RVs are priced per foot, from a basic wash up to 
 ### Are you certified?
 
 Yes. Oregon Detail Co is a member of the International Detailing Association (IDA), owner Tanner Broady is an IDA Certified Detailer, and we're a certified Carfax service center.
+
+### Can you remove pet hair, mold or stains?
+
+Yes. We add Severe Pet Hair Removal (from $50), a Pet Enzyme Treatment or a Mold Treatment (each from $75) to an interior detail. Heavy mold, smoke or rodent damage is quoted after we see the vehicle; our [restoration detailing guide](https://oregondetail.com/blog/restoration-detailing-eugene) explains how we handle it. Text photos to [(541) 968-2804](tel:+15419682804) for a rough range.
+
+### Do you detail classic and show cars?
+
+Yes. We've done show and concours detailing for more than 10 years for owners, restoration shops and collectors. Every classic is quoted in person, because condition and paint history change the approach. See our [classic car detailing page](https://oregondetail.com/classics) or call [(541) 968-2804](tel:+15419682804).
 
 Book online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
