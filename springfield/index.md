@@ -39,7 +39,7 @@ We serve Springfield, Glenwood, Thurston and the rest of Lane County.
 
 ### How far is Oregon Detail Co from Springfield?
 
-Our shop is located at 860 Conger St Unit 14 in Eugene — just 4 miles and 8 minutes from downtown Springfield via OR-126. Easy drop-off before work in the morning!
+Our shop is located at 860 Conger St Unit 14 in Eugene — just 4 miles and 8 minutes from downtown Springfield via OR-126. Coming before we open at 9am? Leave your keys in the key drop box on the building.
 
 ### Why drive to a shop instead of using a mobile detailer?
 
@@ -47,7 +47,7 @@ Mobile detailers work outside in your driveway. We work indoors in a 4,000 sq ft
 
 ### Can I drop off before work and pick up after?
 
-Yes. We're open Monday to Friday, 9am to 6pm, and appointment-only, so your car is ready for us when you arrive. A full detail usually takes most of the day; ceramic coatings stay overnight. Book online or call (541) 968-2804.
+Yes. We're open Monday to Friday, 9am to 6pm, by appointment, and there is a key drop box on the building, so you can leave your car and keys on your way to work before we open. A full detail usually takes most of the day; ceramic coatings stay overnight. Book online or call (541) 968-2804.
 
 ### What does a Springfield daily driver usually need?
 
