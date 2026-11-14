@@ -78,6 +78,8 @@ Further reading: [Ceramic Coating in Eugene, OR: What It Costs and Whether It's 
 
 ## Ceramic Coating FAQ
 
+More answers on booking, timing and aftercare are on our [FAQ page](https://oregondetail.com/faqs).
+
 ### How long does ceramic coating last?
 
 It depends on the package. Level 1 carries a 2-year warranty and is a great starting point for daily drivers. Level 2 and Level 3 carry a 5-year warranty and include five years of complimentary annual exterior maintenance. All packages are backed by an in-house warranty and maintained by the same team that installed them.
