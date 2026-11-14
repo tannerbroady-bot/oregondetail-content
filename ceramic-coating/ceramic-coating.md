@@ -78,7 +78,7 @@ Further reading: [Ceramic Coating in Eugene, OR: What It Costs and Whether It's 
 
 ## Ceramic Coating FAQ
 
-More answers on booking, timing and aftercare are on our [FAQ page](https://oregondetail.com/faqs).
+More answers on booking, timing and aftercare are on our [FAQ page](https://oregondetail.com/faqs). Wondering when to book? See [the best time of year for ceramic coating](https://oregondetail.com/blog/best-time-ceramic-coating-oregon).
 
 ### How long does ceramic coating last?
 
