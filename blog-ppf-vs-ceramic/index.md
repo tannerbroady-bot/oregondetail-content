@@ -123,6 +123,6 @@ We're located at 860 Conger St Unit 14 in Eugene, Oregon — just 8 minutes from
 
 *Oregon Detail Co has been protecting vehicles in Eugene, Springfield, and Lane County since 2016. See our [paint protection film packages](https://oregondetail.com/paint-protection-film) and [ceramic coating packages in Eugene](https://oregondetail.com/ceramic-coating) or call (541) 968-2804 to discuss what's right for your vehicle.*
 
-Related: [Ceramic Coating in Eugene, OR: What It Costs and Whether It's Worth It](https://oregondetail.com/blog/ceramic-coating-eugene-oregon)
+Related: [How Much Does Ceramic Coating Cost in Eugene, OR?](https://oregondetail.com/blog/ceramic-coating-eugene-oregon)
 
 Related: [Paint Protection Film (PPF) packages in Eugene, OR](https://oregondetail.com/paint-protection-film)
