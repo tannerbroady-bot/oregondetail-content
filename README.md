@@ -17,7 +17,6 @@ Each file has YAML frontmatter (title, description, canonical URL, last updated)
 | `rv-services/` | https://oregondetail.com/rv-services |
 | `classics/` | https://oregondetail.com/classics |
 | `faqs/` | https://oregondetail.com/faqs |
-| `glassparency-protection/` | https://oregondetail.com/glassparency-protection |
 | `springfield/` | https://oregondetail.com/auto-detailing-springfield-oregon |
 | `Cottage Grove/` | https://oregondetail.com/auto-detailing-cottage-grove-oregon |
 | `Junction City/` | https://oregondetail.com/auto-detailing-junction-city-oregon |
