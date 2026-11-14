@@ -74,7 +74,7 @@ The most in-depth interior: full vacuuming; detailed cleaning of dash, gauges, c
 | Polishing stages | — | 1 | 2 | 4 |
 | Wet sanding | — | — | — | Included |
 | Paint sealant | 6–8 mo | 6 mo | 6 mo | Optional |
-| Hydr02 wheel protection | — | Included | Included | — |
+| HydrO2 wheel protection | — | Included | Included | — |
 | Ceramic coating | — | Available | Available | Optional |
 | Estimated time | 3.5 hrs | 8 hrs | 10 hrs | 3+ days |
 
@@ -84,11 +84,11 @@ Hand wash, clay bar decontamination, 6–8 month paint sealant, tire and trim dr
 
 ### 1-Stage Paint Enhancement — $300 / $350 / $400
 
-For light defects; corrects 50–70%. Hand wash and clay bar, one-stage machine polish, 6-month paint sealant, Hydr02 wheel protection. Ceramic coating available.
+For light defects; corrects 50–70%. Hand wash and clay bar, one-stage machine polish, 6-month paint sealant, HydrO2 wheel protection. Ceramic coating available.
 
 ### 2-Stage Paint Correction — $600 / $650 / $700
 
-For deep scratches and swirls; corrects 90–95%. Hand wash and clay bar, heavy-cut compound, refining polish, 6-month paint sealant, Hydr02 wheel protection. Ceramic coating available.
+For deep scratches and swirls; corrects 90–95%. Hand wash and clay bar, heavy-cut compound, refining polish, 6-month paint sealant, HydrO2 wheel protection. Ceramic coating available.
 
 ### 4-Stage Concours Restoration — quoted in person
 
