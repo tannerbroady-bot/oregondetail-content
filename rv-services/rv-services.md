@@ -86,7 +86,7 @@ Yes. All types of RVs, including Class A, B and C motorhomes, fifth wheels and t
 
 ### How often should I have my RV detailed?
 
-A full exterior wash and wax at least once a year protects the paint and prevents black streaks and oxidation. If the RV sits outside year-round in Oregon's wet climate, more frequent roof cleaning is a smart preventive step.
+A full exterior wash and wax at least once a year protects the paint and prevents black streaks and oxidation. If the RV sits outside year-round in Oregon's wet climate, more frequent roof cleaning is a smart preventive step. See our [year-round RV roof care schedule](https://oregondetail.com/blog/rv-roof-care-oregon).
 
 ### Can you remove oxidation from my RV's paint?
 
