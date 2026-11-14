@@ -47,7 +47,7 @@ Fine dust and grass seed chaff work into vents, carpet and seat seams. Our compl
 
 ### Can I fit a detail around a day in Eugene?
 
-Yes. A full detail takes most of the day, so it pairs well with work or errands in town. We're open Monday to Friday, 9am to 6pm, by appointment. Book online or call (541) 968-2804.
+Yes. A full detail takes most of the day, so it pairs well with work or errands in town. We're open Monday to Friday, 9am to 6pm, by appointment, and if you arrive before we open, leave your keys in the key drop box on the building. Book online or call (541) 968-2804.
 
 ### Does field dust hurt car paint?
 
