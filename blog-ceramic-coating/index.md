@@ -11,7 +11,7 @@ last_updated: "2026-11-06"
 
 *By Tanner Broady, founder of Oregon Detail Co · April 13, 2026*
 
-If you've been driving around Eugene for any length of time, you already know what Oregon weather does to a vehicle. Rain from October through June, tree sap and pollen from the valley floor, summer UV baking your paint through July and August, and bird droppings that can etch clear coat in a matter of hours if you don't catch them. It's a tough environment for any paint finish — and it's exactly why ceramic coatings have become one of the most requested services at Oregon Detail Co.
+If you've been driving around Eugene for any length of time, you already know what Oregon weather does to a vehicle. Rain from mid-October into May, tree sap and pollen from the valley floor, summer UV baking your paint through July and August, and bird droppings that can etch clear coat in a matter of hours if you don't catch them. It's a tough environment for any paint finish — and it's exactly why ceramic coatings have become one of the most requested services at Oregon Detail Co.
 
 We've been installing ceramic coatings in Eugene since 2016 and have completed hundreds of installations across every vehicle type imaginable. This post answers the questions we hear most often from Eugene drivers before they book — what ceramic coating actually is, what it costs, how long it lasts, and whether it makes sense for your specific situation.
 
@@ -41,7 +41,7 @@ All three levels include a hand wash, paint decontamination, enhancement polish,
 
 Let's look at the math honestly.
 
-A good wax or paint sealant costs between $125 to $175 per application and needs to be reapplied three to four times per year. Over five years that's between $1,500 and $4,000 in waxing costs — and that's assuming consistent maintenance with no gaps. It also means five years of your paint being exposed to Oregon rain, pollen, tree sap, and UV every time the protection wears thin between applications.
+A good wax costs between $125 and $175 per application and needs to be reapplied three to four times per year. Over five years that's between $1,875 and $3,500 in waxing costs — and that's assuming consistent maintenance with no gaps. It also means five years of your paint being exposed to Oregon rain, pollen, tree sap, and UV every time the protection wears thin between applications.
 
 A Level 2 ceramic coating from Oregon Detail Co costs between $1,350 and $1,750 depending on vehicle size. It lasts five years. It includes annual maintenance visits. And it delivers meaningfully better protection than any wax at any price point.
 
@@ -53,7 +53,7 @@ For a new vehicle, it's even more straightforward. Applying a coating within the
 
 A lot of drivers assume ceramic coating is something that happens in an afternoon. It isn't — and any shop telling you otherwise is cutting corners.
 
-At Oregon Detail Co, a ceramic coating installation takes at least a full 12 hour day plus a 12 hour indoor cure time requiring the vehicle overnight. Here's why: before any coating goes on, the paint needs to be properly prepared. That means a thorough hand wash, a clay bar decontamination to remove embedded contaminants from the surface, and an enhancement polish to bring the paint to the best possible condition. Applying a coating over contaminated or defective paint locks those problems in permanently.
+At Oregon Detail Co, a ceramic coating installation takes about 8 to 10 hours of work plus at least 12 hours of indoor curing, so the vehicle stays overnight. Here's why: before any coating goes on, the paint needs to be properly prepared. That means a thorough hand wash, a clay bar decontamination to remove embedded contaminants from the surface, and an enhancement polish to bring the paint to the best possible condition. Applying a coating over contaminated or defective paint locks those problems in permanently.
 
 Once the paint is prepared, the coating is applied panel by panel and allowed to cure. The vehicle then needs to sit undisturbed while the coating bonds to the clear coat. We work in a climate-controlled indoor facility specifically because curing conditions matter — temperature and humidity affect how well the coating bonds, and Oregon's weather makes an outdoor installation impractical.
 
