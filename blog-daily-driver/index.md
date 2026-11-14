@@ -20,7 +20,7 @@ Our honest answer: yes, if you do it the smart way. You don't need a detail shop
 ### 1. One deep reset
 A full interior and exterior detail removes the built-up grime, stains and road film that regular washes miss. Add paint correction if the paint looks dull or swirled. This is the step that makes the car feel new again. Consider a package like our Classic or Ultimate detail.
 
-### 2. Optional long term protection
+### 2. Optional long-term protection
 A ceramic coating makes washing faster and keeps Oregon rain, tree sap and road film from sticking to the paint. Our 2-year and 5-year ceramic coating packages start at $750, with annual maintenance included. See [ceramic coating packages](https://oregondetail.com/ceramic-coating).
 
 ### 3. Easy upkeep at home
@@ -43,7 +43,7 @@ You can skip the extras if:
 
 - Wash every two to three weeks with a pH-neutral car soap and a clean microfiber mitt.
 - Use two buckets, one for soap and one for rinsing the mitt, so you don't drag grit across the paint.
-- Dry with a clean microfiber towel thoroughly instead of letting water spots form.
+- Dry thoroughly with a clean microfiber towel instead of letting water spots form.
 - Skip automatic washes with brushes. Touchless washes are fine between hand washes.
 - Vacuum and wipe down the dash, screens and door panels once a month.
 
