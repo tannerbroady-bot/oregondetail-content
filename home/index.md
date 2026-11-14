@@ -57,7 +57,7 @@ All services are performed at the shop at 860 Conger St, Unit 14 in Eugene. The 
 
 ### How long does a detail take? Should I plan to wait?
 
-A standard interior refresh may take a couple of hours, while a full detail or paint correction can take most of the day, or overnight for intensive services. Arrange a ride for most services.
+Plan on about 5 hours for an interior detail or a Deluxe Detail, 6 hours for a Classic Detail and 8 hours for an Ultimate Detail. Paint correction takes 8 to 10 hours, and ceramic coatings stay overnight. Arrange a ride for most services.
 
 ### My car stinks! What service will fix that?
 
@@ -65,7 +65,7 @@ Odor removal starts with the Complete Interior Detail. From there, a combination
 
 ### What's the difference between a wax and a ceramic coating?
 
-Wax or sealant sits on top of the paint and lasts around 6–8 months. A ceramic coating chemically bonds to the clear coat and lasts years. Coated cars get better protection against light scratches and contamination, strong water beading and deeper gloss. Every vehicle is polished before coating so the best finish is locked in, not imperfections.
+Wax or sealant sits on top of the paint and lasts around 6–8 months. A ceramic coating chemically bonds to the clear coat and lasts years. Coated cars get protection against light swirls, UV, road grime, bird droppings and tree sap, strong water beading and deeper gloss. A coating does not stop rock chips or deep scratches; that's what [paint protection film](https://oregondetail.com/paint-protection-film) is for. Every vehicle is polished before coating so the best finish is locked in, not imperfections.
 
 ### My headlights are yellow and foggy. Can they be fixed?
 
