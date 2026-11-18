@@ -1,8 +1,8 @@
 ---
-title: "Auto Detailing for Springfield, OR — Oregon Detail Co"
-description: "Oregon Detail Co serves Springfield, OR with professional auto detailing, ceramic coating & paint correction. Just 8 min from downtown Springfield. Book online."
+title: "Auto Detailing & Ceramic Coating for Springfield, OR — Oregon Detail Co"
+description: "Detailing, ceramic coating and PPF for Springfield, OR drivers, 8 minutes away in our indoor Eugene shop. Ceramic from $750, PPF from $1,200. Book online."
 url: "https://oregondetail.com/auto-detailing-springfield-oregon"
-last_updated: "2026-11-13"
+last_updated: "2026-11-18"
 ---
 
 # Auto Detailing in Springfield, OR
@@ -17,11 +17,15 @@ We're appointment-only and every vehicle is worked on indoors in our 4,000 sq ft
 - Book online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
 - Full pricing: [Detail Menu](https://oregondetail.com/service-menu) · [Ceramic Coating](https://oregondetail.com/ceramic-coating) · [RV Services](https://oregondetail.com/rv-services)
 
-## Ceramic Coating for Springfield Drivers
+## Ceramic Coating and PPF for Springfield Drivers
 
 If your week includes the daily run on I-105 and OR-126, or weekend trips up the McKenzie Highway, your paint picks up road film, tree sap and bug splatter faster than you'd think. A ceramic coating keeps that grime from bonding, so the car stays cleaner between washes and rinses off easily when you do wash it.
 
-We've installed ceramic coatings in Eugene since 2016. Choose a [2-year or 5-year coating](https://oregondetail.com/ceramic-coating), both with annual maintenance included. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+We've installed ceramic coatings since 2016. Springfield drivers choose from three levels: [Level 1 (2-year) from $750, Level 2 (5-year) from $1,350 and Level 3 (5-year, all surfaces) from $1,750](https://oregondetail.com/ceramic-coating), each with annual maintenance for the warranty period. Plan on leaving the car with us overnight. For costs and what to expect, see our [ceramic coating cost guide](https://oregondetail.com/blog/ceramic-coating-eugene-oregon).
+
+Highway miles mean rock chips. [Paint protection film](https://oregondetail.com/paint-protection-film) covers the front end where chips land, starting at $1,200 for Standard Front, with a 10-year manufacturer's limited warranty. Most PPF installs take about 3 days.
+
+Every coating and film install starts with [paint correction](https://oregondetail.com/paint-correction), so swirls are polished out before they're sealed in. All of it happens inside our shop, out of the rain.
 
 ## RV Detailing for Springfield Owners
 
@@ -60,3 +64,7 @@ Fall, before the wet season, is the most popular time for a sealant or ceramic c
 ### Do you offer gift certificates for customers?
 
 Yes — Oregon Detail Co gift certificates are available online and make an easy gift for any occasion. They're redeemable for any service we offer and delivered digitally to your email. See [Gift Certificates](https://oregondetail.com/store/p/giftcard).
+
+### Do you do ceramic coating and PPF for Springfield drivers?
+
+Yes. Springfield drivers bring their cars to our indoor shop at 860 Conger St in west Eugene, about 8 minutes away on OR-126. Ceramic coating starts at $750 and stays with us overnight. Paint protection film starts at $1,200, carries a 10-year manufacturer's limited warranty and takes about 3 days to install.
