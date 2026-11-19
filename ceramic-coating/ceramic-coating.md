@@ -2,7 +2,7 @@
 title: "Ceramic Coating in Eugene: 2 & 5 Years — Oregon Detail Co"
 description: "Ceramic coating in Eugene, OR from $750. 2- and 5-year warranties with annual maintenance included. Installed indoors by an installer since 2016."
 url: "https://oregondetail.com/ceramic-coating"
-last_updated: "2026-11-14"
+last_updated: "2026-11-18"
 ---
 
 # Professional Ceramic Coating Installation in Eugene, OR
@@ -60,6 +60,19 @@ The most coverage on every exterior surface.
 | Doorjambs | No | No | Yes |
 | Wheel faces | No | No | Yes |
 | Glass | No | No | Yes |
+
+## Ceramic Interior Protection
+
+An add-on ceramic coating for the inside of your vehicle — $450 / $550 / $650.
+
+Brings out the depth of color in your interior, makes every surface easier to clean, and protects against UV fading, spills and everyday wear for up to 3 years.
+
+- Plastics, vinyl and trim
+- Leather seats and surfaces
+- Fabric seats and carpets
+- Up to 3 years of protection against UV fading, spills and stains
+
+Applied after an [interior detail](https://oregondetail.com/service-menu), priced separately, so the coating goes onto clean surfaces. New vehicles may not need the detail first.
 
 ## Installation Process
 
@@ -125,6 +138,10 @@ More answers on booking, timing and aftercare are on our [FAQ page](https://oreg
 ### How much does ceramic coating cost in Eugene?
 
 Level 1 (2-year warranty) is $750, $850 or $950 depending on [vehicle size](https://oregondetail.com/service-menu). Level 2 (5-year) is $1,350 to $1,750, and Level 3 (5-year, all surfaces) is $1,750 to $2,150. Every level includes prep, an enhancement polish and annual maintenance for the warranty period.
+
+### Do you ceramic coat interiors?
+
+Yes. Ceramic Interior Protection coats the plastics, leather and fabric inside your vehicle and protects against UV fading, spills and everyday wear for up to 3 years. It's $450, $550 or $650 depending on [vehicle size](https://oregondetail.com/service-menu), added to an interior detail that's priced separately. New vehicles may not need the detail first.
 
 ### How long will you have my car?
 
