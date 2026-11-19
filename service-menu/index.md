@@ -2,7 +2,7 @@
 title: "Detailing Packages & Prices in Eugene, OR — Oregon Detail Co"
 description: "Full detail packages from $280, plus interior, exterior, paint correction, ceramic coating and paint protection film prices in Eugene, OR. Appointment-only, fully indoor."
 url: "https://oregondetail.com/service-menu"
-last_updated: "2026-11-13"
+last_updated: "2026-11-18"
 ---
 
 # Detail Menu – Auto Detailing Packages & Pricing in Eugene, Oregon
@@ -110,6 +110,10 @@ A semi-permanent, chemically bonded layer over the clear coat for years of gloss
 | Glass coating on windows | — | — | Included |
 | Annual exterior maintenance | 2 years | 5 years | 5 years |
 | Estimated time | 8 hrs | 10 hrs | 10 hrs |
+
+### Ceramic Interior Protection — $450 / $550 / $650
+
+Interior add-on with up to 3 years of protection for plastics, leather and fabric against UV fading, spills and everyday wear. Applied after an interior detail, priced separately; new vehicles may not need the detail first. Details: https://oregondetail.com/ceramic-coating#cc-interior
 
 ## Paint Protection Film
 
