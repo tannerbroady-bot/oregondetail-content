@@ -1,8 +1,8 @@
 ---
 title: "Auto Detailing for Cottage Grove, OR — Oregon Detail Co"
-description: "Oregon Detail Co serves Cottage Grove, OR with professional auto detailing, ceramic coating & paint correction. Just 24 min from Cottage Grove via I-5. Book online."
+description: "Auto detailing, ceramic coating and paint correction for Cottage Grove, OR drivers, 24 minutes away in our indoor Eugene shop via I-5. Book online."
 url: "https://oregondetail.com/auto-detailing-cottage-grove-oregon"
-last_updated: "2026-11-13"
+last_updated: "2026-11-24"
 ---
 
 # Auto Detailing in Cottage Grove, Oregon
@@ -35,7 +35,7 @@ Take I-5 north about 22 miles into Eugene, then head to west Eugene. The shop is
 
 We serve Cottage Grove, Creswell and the rest of south Lane County.
 
-## Frequently Asked Questions
+## Cottage Grove Detailing FAQs
 
 ### How far is Oregon Detail Co from Cottage Grove?
 
@@ -53,10 +53,10 @@ Most full details take the better part of a day, and ceramic coatings stay overn
 
 Fine dust and grit from gravel roads settle on the paint, and a quick wash drags them across it, which leaves swirl marks. Rinse well before you wash. A ceramic coating helps the dust rinse off, and paint protection film on the front end takes the rock chips.
 
-### When is the best time of year to book?
+### When should Cottage Grove drivers book a detail?
 
 Two times work well for Cottage Grove drivers: early fall, to clean off a summer of dusty roads and lake trips and seal the paint before the rain, and spring, to clear out the winter mud and grime from the interior and the lower panels.
 
-### Do you offer gift certificates for customers?
+### Can you clean up my RV after a summer at the lake?
 
-Yes — Oregon Detail Co gift certificates are available online and make an easy gift for any occasion. They're redeemable for any service we offer and delivered digitally to your email. See [Gift Certificates](https://oregondetail.com/store/p/giftcard).
+Yes. RVs and trailers that spend the summer at Dorena Lake or Cottage Grove Lake come home with dust, tree sap and sun-faded paint. We wash, polish and ceramic coat motorhomes, fifth wheels and trailers of all sizes indoors, priced by the foot from a basic wash to the Elite Coach package.
