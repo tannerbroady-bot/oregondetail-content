@@ -1,10 +1,10 @@
 ---
 title: "How Much Does Ceramic Coating Cost in Eugene? — Oregon Detail Co"
-description: "Ceramic coating in Eugene, OR costs $750 to $2,150 depending on the package and vehicle size. What each level includes, how long it lasts and whether it's worth it."
+description: "Ceramic coating in Eugene, OR costs $750 to $2,150 by package and vehicle size. What each level includes, how long it lasts and whether it's worth it."
 url: "https://oregondetail.com/blog/ceramic-coating-eugene-oregon"
 author: "Tanner Broady"
 date_published: "2026-04-13"
-last_updated: "2026-11-14"
+last_updated: "2026-11-24"
 ---
 
 # How Much Does Ceramic Coating Cost in Eugene, OR?
