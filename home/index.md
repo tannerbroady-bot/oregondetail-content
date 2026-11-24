@@ -2,7 +2,7 @@
 title: "Oregon Detail Co | Eugene Detailing, Ceramic Coating & PPF"
 description: "Indoor, appointment-only auto detailing, ceramic coating and paint correction in Eugene, OR. 4.9 stars from 220+ reviews. Serving Lane County since 2016."
 url: "https://oregondetail.com"
-last_updated: "2026-11-13"
+last_updated: "2026-11-24"
 ---
 
 # Auto Detailing & Ceramic Coating — Eugene, Oregon
@@ -72,3 +72,18 @@ Wax or sealant sits on top of the paint and lasts around 6–8 months. A ceramic
 Yes. Headlight restoration starts at $50 per headlight: the failed UV coating and oxidized plastic are wet sanded away, each lens is compounded and polished, then finished with two coats of UV-resistant ceramic. Every restoration includes a 2-year warranty.
 
 More answers: [FAQs](https://oregondetail.com/faqs)
+
+## Customer Reviews
+
+4.9 on Google from 220+ reviews.
+
+> Had Oregon Detail Co. put on their Level-3 Ceramic Coating on our 2022 Ford Bronco. They polished all the swirl marks and scratched first, and the paint looks better than when we bought it! 6 months later and the rain still beads off like when it was first done and washing takes half the time. Tanner walked us through how to care for the coating when we picked the Bronco up and even gave us some free soap to use at home! BEST Detail shop in Eugene!
+> — La Bonita, Google review
+
+> I got a full inside and out detail of my 4Runner, and Oregon Detail did a fantastic job. Everything is clean and shiny and my car looks like new again. Aside from the great quality of work, the customer service was top notch. Tanner was great - he greeted me in the parking lot when I arrived and we had a chat about what I needed and any concerns about the car. He left me feeling like my car was in good hands. When I went back to pick it up he invited me to inspect the work and went over everything that had been done. It was an all around great experience!
+> — Matt C., Google review
+
+> Tanner and his team have detailed multiple cars for me and my family over the last few years. Highly personable, great communication, and extremely thorough. The cars always come back looking and feeling incredible! I can’t recommend Oregon Detail enough. Thank you guys!
+> — Claire D., Google review
+
+[Read all Google reviews](https://www.google.com/maps?cid=3418018725694147230)
