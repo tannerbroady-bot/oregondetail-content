@@ -1,10 +1,10 @@
 ---
-title: "Is Detailing Worth It for a Daily Driver? | Eugene, OR — Oregon Detail Co"
+title: "Is Detailing Worth It for a Daily Driver? — Oregon Detail Co"
 description: "One deep reset, optional ceramic coating from $750, and an easy home routine. How Eugene commuters get the most from a professional detail."
 url: "https://oregondetail.com/blog/daily-driver-detailing-eugene"
 author: "Tanner Broady"
 date_published: "2026-11-11"
-last_updated: "2026-11-11"
+last_updated: "2026-11-24"
 ---
 
 # Is Professional Detailing Worth It for a Daily Driver?
