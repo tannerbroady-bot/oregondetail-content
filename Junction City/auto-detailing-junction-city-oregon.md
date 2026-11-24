@@ -2,7 +2,7 @@
 title: "Auto Detailing for Junction City, OR — Oregon Detail Co"
 description: "Auto detailing, ceramic coating and paint correction for Junction City, OR drivers, 22 minutes away in Eugene via Hwy 99. Book online."
 url: "https://oregondetail.com/auto-detailing-junction-city-oregon"
-last_updated: "2026-11-13"
+last_updated: "2026-11-24"
 ---
 
 # Auto Detailing in Junction City, Oregon
@@ -35,7 +35,7 @@ Take Highway 99 south about 18 miles into west Eugene. The shop is at 860 Conger
 
 We serve Junction City, Alvadore and the rest of north Lane County.
 
-## Frequently Asked Questions
+## Junction City Detailing FAQs
 
 ### How far is Oregon Detail Co from Junction City?
 
@@ -53,10 +53,10 @@ Yes. A full detail takes most of the day, so it pairs well with work or errands 
 
 The dust itself is mostly fine grit; wiping it off dry is what scratches. Rinse with plenty of water before you wash and use a pH-neutral car soap. A sealant or ceramic coating gives the dust less to cling to.
 
-### When is the best time of year to book?
+### When should Junction City drivers book a detail?
 
 Late summer, once the harvest dust settles, is a good time for a full detail inside and out. Fall, before the rain, is the time for a sealant or ceramic coating, so the paint is protected through the wet months.
 
-### Do you offer gift certificates for customers?
+### Can I bring my RV or trailer from Junction City?
 
-Yes — Oregon Detail Co gift certificates are available online and make an easy gift for any occasion. They're redeemable for any service we offer and delivered digitally to your email. See [Gift Certificates](https://oregondetail.com/store/p/giftcard).
+Yes. It is a straight drive down Highway 99, and there is room to bring a coach in. We wash, polish and ceramic coat motorhomes, fifth wheels and trailers of all sizes indoors, priced by the foot from a basic wash to the Elite Coach package.
