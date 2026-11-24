@@ -2,7 +2,7 @@
 title: "Auto Detailing & Ceramic Coating for Springfield, OR — Oregon Detail Co"
 description: "Detailing, ceramic coating and PPF for Springfield, OR drivers, 8 minutes away in our indoor Eugene shop. Ceramic from $750, PPF from $1,200. Book online."
 url: "https://oregondetail.com/auto-detailing-springfield-oregon"
-last_updated: "2026-11-18"
+last_updated: "2026-11-24"
 ---
 
 # Auto Detailing in Springfield, OR
@@ -39,7 +39,7 @@ From downtown Springfield, take OR-126 west; it becomes I-105 into Eugene. Our s
 
 We serve Springfield, Glenwood, Thurston and the rest of Lane County.
 
-## Frequently Asked Questions
+## Springfield Detailing FAQs
 
 ### How far is Oregon Detail Co from Springfield?
 
@@ -57,13 +57,13 @@ Yes. We're open Monday to Friday, 9am to 6pm, by appointment, and there is a key
 
 Most daily drivers do well with a full detail once or twice a year: a deep interior clean plus a hand wash, clay bar and sealant. If the car parks outside under trees or racks up miles on I-105 and OR-126, a ceramic coating cuts washing time all year.
 
-### When is the best time of year to book?
+### When should Springfield drivers book a detail?
 
 Fall, before the wet season, is the most popular time for a sealant or ceramic coating. Late spring is the other: Willamette Valley grass pollen peaks from about May to July and settles on every car in Springfield, so a detail after pollen season clears it out of the paint and the cabin air.
 
-### Do you offer gift certificates for customers?
+### Do you detail RVs for Springfield owners?
 
-Yes — Oregon Detail Co gift certificates are available online and make an easy gift for any occasion. They're redeemable for any service we offer and delivered digitally to your email. See [Gift Certificates](https://oregondetail.com/store/p/giftcard).
+Yes. We wash, polish and ceramic coat motorhomes, fifth wheels and trailers of all sizes indoors at our west Eugene shop, about 8 minutes from downtown Springfield on OR-126. Pricing is by the foot, from a basic wash to the Elite Coach package.
 
 ### Do you do ceramic coating and PPF for Springfield drivers?
 
