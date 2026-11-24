@@ -4,7 +4,7 @@ description: "How to tell if your classic has single-stage paint, what a detaile
 url: "https://oregondetail.com/blog/single-stage-paint-classic-cars"
 author: "Tanner Broady"
 date_published: "2026-11-13"
-last_updated: "2026-11-13"
+last_updated: "2026-11-24"
 ---
 
 # Single-Stage Paint on Classic Cars: What a Detailer Can Safely Do
@@ -47,7 +47,7 @@ On thin or original paint, the right answer is often a big improvement in gloss 
 
 Freshly polished single-stage paint needs protection. A good wax or sealant adds depth and keeps oxidation from coming back. A ceramic coating is an option for some classics, and we'll talk it through once we've seen the car.
 
-![1937 Packard 1508 Berline Twelve after a show car detail at Oregon Detail Co in Eugene](https://images.squarespace-cdn.com/content/v1/58da8bb7725e25a7d0fc195c/0c74ce28-cf69-4c55-a2ef-71b7fbd11a08/1937-Packard-1508-Berline-Twelve-show-car-detail-Oregon-Detail-Co-Eugene.jpg)
+![Black 1937 Packard Twelve Berline after a show car detail at Oregon Detail Co in Eugene, Oregon](https://images.squarespace-cdn.com/content/v1/58da8bb7725e25a7d0fc195c/0c74ce28-cf69-4c55-a2ef-71b7fbd11a08/1937-Packard-1508-Berline-Twelve-show-car-detail-Oregon-Detail-Co-Eugene.jpg)
 
 ## Why preservation comes first
 
