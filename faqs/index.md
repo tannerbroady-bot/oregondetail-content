@@ -1,8 +1,8 @@
 ---
 title: "Auto Detailing FAQs in Eugene, OR — Oregon Detail Co"
-description: "Answers to common questions about detailing at our indoor Eugene shop: pricing, how long it takes, ceramic coating, paint correction, PPF, odor removal and booking."
+description: "Answers to common questions about our indoor Eugene detail shop: pricing, timing, ceramic coating, paint correction, PPF, odor removal and booking."
 url: "https://oregondetail.com/faqs"
-last_updated: "2026-11-12"
+last_updated: "2026-11-24"
 ---
 
 # Auto Detailing FAQs in Eugene, OR
@@ -106,5 +106,9 @@ Yes. We add Severe Pet Hair Removal (from $50), a Pet Enzyme Treatment or a Mold
 ### Do you detail classic and show cars?
 
 Yes. We've done show and concours detailing for more than 10 years for owners, restoration shops and collectors. Every classic is quoted in person, because condition and paint history change the approach. See our [classic car detailing page](https://oregondetail.com/classics) or call [(541) 968-2804](tel:+15419682804).
+
+### Do you detail fleet and government vehicles?
+
+Yes. We hold fleet contracts with the City of Eugene, Lane County and the US Forest Service. For fleet or government pricing, call [(541) 968-2804](tel:+15419682804).
 
 Book online: https://app.urable.com/virtual-shop/449XesryyzJ1FLYswv9K
