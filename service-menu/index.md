@@ -1,8 +1,8 @@
 ---
 title: "Detailing Packages & Prices in Eugene, OR — Oregon Detail Co"
-description: "Full detail packages from $280, plus interior, exterior, paint correction, ceramic coating and paint protection film prices in Eugene, OR. Appointment-only, fully indoor."
+description: "Full detail packages from $280, plus interior, exterior, paint correction, ceramic coating and PPF prices in Eugene, OR. Appointment-only, fully indoor."
 url: "https://oregondetail.com/service-menu"
-last_updated: "2026-11-24"
+last_updated: "2026-11-25"
 ---
 
 # Detail Menu – Auto Detailing Packages & Pricing in Eugene, Oregon
