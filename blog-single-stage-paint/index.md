@@ -1,10 +1,10 @@
 ---
-title: "Single-Stage Paint on Classic Cars: Safe Detailing — Oregon Detail Co"
+title: "Single-Stage Paint Care for Classic Cars — Oregon Detail Co"
 description: "How to tell if your classic has single-stage paint, what a detailer can safely do to restore it, and when to stop. From a Eugene show car detailer."
 url: "https://oregondetail.com/blog/single-stage-paint-classic-cars"
 author: "Tanner Broady"
 date_published: "2026-11-13"
-last_updated: "2026-11-24"
+last_updated: "2026-11-25"
 ---
 
 # Single-Stage Paint on Classic Cars: What a Detailer Can Safely Do
