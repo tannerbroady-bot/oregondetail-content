@@ -1,8 +1,8 @@
 ---
-title: "Classic Car Detailing Eugene OR — Oregon Detail Co"
-description: "Oregon Detail Co specializes in classic & concours car detailing in Eugene, OR. Paint correction, restoration, and protection for vintage vehicles. 10+ years of experience."
+title: "Classic & Concours Detailing in Eugene — Oregon Detail Co"
+description: "Show and concours detailing for classic cars in Eugene, OR, from sale prep to multi-day details on original paint. 10+ years of experience. Quoted in person."
 url: "https://oregondetail.com/classics"
-last_updated: "2026-11-06"
+last_updated: "2026-11-25"
 ---
 
 # Show Car & Classic Auto Detailing in Eugene, OR
