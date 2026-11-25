@@ -1,8 +1,8 @@
 ---
-title: "Auto Detailing & Ceramic Coating for Springfield, OR — Oregon Detail Co"
+title: "Springfield Detailing & Ceramic Coating — Oregon Detail Co"
 description: "Detailing, ceramic coating and PPF for Springfield, OR drivers, 8 minutes away in our indoor Eugene shop. Ceramic from $750, PPF from $1,200. Book online."
 url: "https://oregondetail.com/auto-detailing-springfield-oregon"
-last_updated: "2026-11-24"
+last_updated: "2026-11-25"
 ---
 
 # Auto Detailing in Springfield, OR
