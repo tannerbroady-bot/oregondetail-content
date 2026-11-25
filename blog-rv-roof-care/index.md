@@ -1,10 +1,10 @@
 ---
-title: "RV Roof Care Schedule for Oregon's Wet Winters — Oregon Detail Co"
+title: "RV Roof Care Schedule for Oregon — Oregon Detail Co"
 description: "A simple yearly RV roof care schedule for Oregon owners: when to clean and protect the roof, what to check through the wet season, and what it costs in Eugene."
 url: "https://oregondetail.com/blog/rv-roof-care-oregon"
 author: "Tanner Broady"
 date_published: "2024-09-01"
-last_updated: "2026-11-13"
+last_updated: "2026-11-25"
 ---
 
 # RV Roof Care in Oregon: A Year-Round Schedule for Wet Winters
