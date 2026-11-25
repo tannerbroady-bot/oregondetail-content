@@ -1,10 +1,10 @@
 ---
-title: "Best Time of Year for Ceramic Coating in Oregon — Oregon Detail Co"
+title: "Best Time for Ceramic Coating in Oregon — Oregon Detail Co"
 description: "When to ceramic coat your car in Eugene and the Willamette Valley, season by season, and why an indoor shop can install year-round. Prices from $750."
 url: "https://oregondetail.com/blog/best-time-ceramic-coating-oregon"
 author: "Tanner Broady"
 date_published: "2024-11-04"
-last_updated: "2026-11-13"
+last_updated: "2026-11-25"
 ---
 
 # When Is the Best Time of Year for Ceramic Coating in the Willamette Valley?
