@@ -1,8 +1,8 @@
 ---
-title: "Ceramic Coating in Eugene: 2 & 5 Years — Oregon Detail Co"
-description: "Ceramic coating in Eugene, OR from $750. 2- and 5-year warranties with annual maintenance included. Installed indoors by an installer since 2016."
+title: "Ceramic Coating in Eugene, OR from $750 — Oregon Detail Co"
+description: "Ceramic coating in Eugene, OR from $750, with 2- and 5-year warranties and annual maintenance included. Cured indoors overnight by an installer since 2016."
 url: "https://oregondetail.com/ceramic-coating"
-last_updated: "2026-11-18"
+last_updated: "2026-11-25"
 ---
 
 # Professional Ceramic Coating Installation in Eugene, OR
