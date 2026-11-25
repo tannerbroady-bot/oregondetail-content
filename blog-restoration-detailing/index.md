@@ -1,10 +1,10 @@
 ---
-title: "Mold, Smoke & RV Restoration in Eugene, OR — Oregon Detail Co"
+title: "Mold, Smoke & RV Restoration in Eugene — Oregon Detail Co"
 description: "Car mold, smoke odor, rodent damage, RV oxidation and original-paint restoration, done indoors in west Eugene since 2016. Text photos for a quote."
 url: "https://oregondetail.com/blog/restoration-detailing-eugene"
 author: "Tanner Broady"
 date_published: "2026-11-11"
-last_updated: "2026-11-24"
+last_updated: "2026-11-25"
 ---
 
 # Restoration Detailing in Eugene: Mold, Smoke Odor, Rodent Damage and Oxidized RVs
